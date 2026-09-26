@@ -1,0 +1,1444 @@
+com.google.android.gms.common.api.Status
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.window.reflection.JFunction2
+com.google.android.gms.common.api.internal.LifecycleCallback
+androidx.compose.foundation.layout.PaddingElement
+androidx.compose.foundation.ScrollableAreaElement
+androidx.compose.runtime.ParcelableSnapshotMutableLongState
+androidx.compose.ui.text.platform.ImmutableBool
+androidx.compose.runtime.ParcelableSnapshotMutableIntState
+com.example.waterreminder.receiver.BootReceiver
+com.example.waterreminder.data.WaterRepository$Companion
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+androidx.compose.ui.text.font.TypefaceResult$Async
+androidx.compose.ui.graphics.GraphicsLayerElement
+androidx.compose.runtime.ParcelableSnapshotMutableState
+com.example.waterreminder.presentation.theme.ThemeKt
+androidx.compose.runtime.DerivedSnapshotState
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+androidx.compose.ui.platform.AndroidComposeView$root$1$1
+com.google.android.gms.common.api.internal.zzd
+androidx.compose.runtime.SnapshotMutableIntStateImpl
+com.google.android.gms.common.api.Scope
+com.google.android.gms.common.api.internal.BasePendingResult
+androidx.compose.foundation.layout.BoxChildDataElement
+androidx.compose.runtime.SnapshotMutableLongStateImpl
+com.google.android.gms.common.api.internal.zzb
+androidx.compose.foundation.layout.SizeElement
+androidx.emoji2.text.EmojiCompatInitializer
+androidx.core.app.RemoteActionCompat
+com.google.android.gms.common.ErrorDialogFragment
+androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner
+androidx.compose.foundation.layout.FillElement
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+androidx.compose.ui.semantics.AppendedSemanticsElement
+com.google.android.gms.common.data.DataHolder
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+androidx.compose.runtime.SnapshotMutableStateImpl
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+com.google.android.gms.wearable.ConnectionConfiguration
+androidx.compose.ui.input.pointer.PointerInputEventHandler
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+androidx.compose.foundation.layout.LayoutWeightElement
+com.google.android.gms.wearable.internal.DataItemAssetParcelable
+androidx.graphics.path.PathIteratorPreApi34Impl
+androidx.compose.foundation.selection.ToggleableElement
+com.example.waterreminder.reminder.ReminderScheduler
+androidx.core.graphics.drawable.IconCompat
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.compose.material3.ThumbElement
+com.google.android.gms.wearable.Term
+androidx.compose.ui.draw.DrawBehindElement
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+androidx.startup.InitializationProvider
+com.example.waterreminder.receiver.WaterActionReceiver$Companion
+androidx.graphics.path.ConicConverter
+androidx.compose.runtime.SnapshotMutableFloatStateImpl
+androidx.compose.foundation.layout.PaddingValuesElement
+androidx.versionedparcelable.ParcelImpl
+androidx.compose.foundation.IndicationModifierElement
+androidx.compose.foundation.BackgroundElement
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.compose.material3.MinimumInteractiveModifier
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.compose.ui.text.font.TypefaceResult$Immutable
+androidx.compose.ui.layout.LayoutIdElement
+androidx.fragment.app.DialogFragment
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+com.example.waterreminder.reminder.NotificationHelper
+androidx.transition.FragmentTransitionSupport
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState
+com.example.waterreminder.receiver.WaterReminderReceiver$Companion
+androidx.compose.ui.layout.OnSizeChangedModifier
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.compose.ui.semantics.ClearAndSetSemanticsElement
+com.google.android.gms.wearable.AppTheme
+androidx.compose.ui.text.font.AsyncFontListLoader
+com.example.waterreminder.reminder.ReminderScheduler$Companion
+androidx.lifecycle.SavedStateHandlesVM
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException
+com.example.waterreminder.presentation.theme.ColorKt
+androidx.compose.foundation.layout.HorizontalAlignElement
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.annotation.Keep
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.compose.material3.internal.ChildSemanticsNodeElement
+com.example.waterreminder.presentation.MainActivity
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+com.example.waterreminder.receiver.WaterReminderReceiver
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation
+androidx.compose.foundation.layout.ConsumedInsetsModifierElement
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+com.google.android.gms.common.annotation.KeepName
+androidx.compose.foundation.gestures.DraggableElement
+com.google.android.gms.common.util.DynamiteApi
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.google.android.gms.common.GooglePlayServicesManifestException
+com.google.android.gms.common.SupportErrorDialogFragment
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$1
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+androidx.compose.foundation.BorderModifierNodeElement
+androidx.profileinstaller.ProfileInstallReceiver
+com.google.android.gms.auth.api.signin.GoogleSignInAccount
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt
+com.google.android.gms.common.GooglePlayServicesIncorrectManifestValueException
+androidx.compose.foundation.layout.WrapContentElement
+androidx.compose.foundation.ClickableElement
+com.example.waterreminder.data.WaterRepository
+com.example.waterreminder.sync.WearDataListenerService
+androidx.core.app.CoreComponentFactory
+com.google.android.gms.wearable.Asset
+com.example.waterreminder.receiver.BootReceiver$Companion
+androidx.compose.foundation.layout.InsetsPaddingModifierElement
+com.example.waterreminder.receiver.WaterActionReceiver
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.compose.ui.draganddrop.AndroidDragAndDropManager$modifier$1
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.compose.animation.core.AnimationState
+androidx.window.reflection.Predicate2
+com.google.android.gms.common.api.GoogleApiActivity
+androidx.compose.foundation.ScrollingLayoutElement
+androidx.window.reflection.Consumer2
+androidx.lifecycle.ReportFragment
+com.example.waterreminder.reminder.NotificationHelper$Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.compose.ui.text.font.TypefaceResult$Immutable: java.lang.Object value
+com.example.waterreminder.reminder.NotificationHelper: java.lang.String CHANNEL_ID
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelStore _viewModelStore
+com.google.android.gms.common.data.DataHolder: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzj: android.os.Parcelable$Creator CREATOR
+androidx.compose.ui.text.font.TypefaceResult$Async: androidx.compose.ui.text.font.AsyncFontListLoader current
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableState: int PolicyReferentialEquality
+com.google.android.gms.wearable.internal.zzl: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: androidx.activity.contextaware.ContextAwareHelper contextAwareHelper
+com.google.android.gms.common.internal.TelemetryData: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.google.android.gms.wearable.zzj: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: boolean dispatchingOnPictureInPictureModeChanged
+com.google.android.gms.wearable.internal.zzej: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$198341725
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: com.example.waterreminder.sync.WearableDataSync $sync
+com.google.android.gms.wearable.internal.zzhm: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.reminder.NotificationHelper: java.lang.String CHANNEL_NAME
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$658903918
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1: com.google.android.gms.wearable.DataClient$OnDataChangedListener $listener$inlined
+com.google.android.gms.wearable.internal.zzfb: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.data.WaterRepository: int $stable
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onPictureInPictureUiStateChangedListeners
+com.example.waterreminder.reminder.NotificationHelper: int NOTIFICATION_ID
+com.example.waterreminder.reminder.ReminderScheduler: java.lang.String TAG
+com.google.android.gms.wearable.internal.zzhg: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.ParcelableSnapshotMutableState: int PolicyStructuralEquality
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.example.waterreminder.data.WaterRepository: java.lang.String KEY_INTERVAL_MINUTES
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+androidx.compose.runtime.SnapshotMutableStateImpl: int $stable
+com.google.android.gms.wearable.AppTheme: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.zzk: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzcu zzn
+com.example.waterreminder.receiver.WaterReminderReceiver: com.example.waterreminder.receiver.WaterReminderReceiver$Companion Companion
+androidx.activity.ComponentActivity: kotlin.Lazy fullyDrawnReporter$delegate
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function2 lambda$1550769320
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+androidx.compose.animation.core.AnimationState: long finishedTimeNanos
+androidx.compose.runtime.SnapshotMutableIntStateImpl: int $stable
+com.google.android.gms.wearable.internal.zzdk: android.os.Parcelable$Creator CREATOR
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+androidx.compose.ui.text.font.AsyncFontListLoader: boolean cacheable
+com.example.waterreminder.reminder.NotificationHelper: int $stable
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.compose.ui.text.font.TypefaceResult$Async: int $stable
+com.example.waterreminder.data.WaterRepository: int MIN_GOAL
+com.example.waterreminder.presentation.theme.ColorKt: long AquaElectric
+com.google.android.gms.wearable.internal.zzdp: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.receiver.WaterReminderReceiver: int $stable
+com.google.android.gms.internal.wearable.zzco: int zzd
+com.google.android.gms.wearable.internal.zzhk: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.data.WaterRepository: java.lang.String KEY_CURRENT_INTAKE
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzco: java.util.Map zzb
+androidx.activity.ComponentActivity: kotlin.Lazy onBackPressedInput$delegate
+androidx.compose.runtime.snapshots.StateObjectImpl: androidx.compose.runtime.internal.AtomicInt readerKind
+androidx.activity.ComponentActivity: java.lang.String ACTIVITY_RESULT_TAG
+com.example.waterreminder.reminder.ReminderScheduler: int $stable
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.android.gms.internal.wearable.zzba: int zza
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzh: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+com.google.android.gms.wearable.internal.zzia: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.data.WaterRepository: java.lang.String PREFS_NAME
+androidx.activity.ComponentActivity: androidx.activity.ComponentActivity$ReportFullyDrawnExecutor reportFullyDrawnExecutor
+com.google.android.gms.wearable.internal.zzgn: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.google.android.gms.wearable.ConnectionConfiguration: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.reminder.ReminderScheduler: int SHOW_REQ_CODE
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultRegistry activityResultRegistry
+androidx.compose.runtime.SnapshotMutableStateImpl: androidx.compose.runtime.SnapshotMutationPolicy policy
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzcu zzm
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: androidx.compose.runtime.MutableState $dailyGoal$delegate
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+com.google.android.gms.wearable.internal.zzev: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.theme.ThemeKt: androidx.compose.material3.ColorScheme DarkColorScheme
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: androidx.compose.runtime.MutableState $isReminderEnabled$delegate
+com.google.android.gms.wearable.internal.zzhe: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.SnapshotMutableStateImpl: androidx.compose.runtime.SnapshotMutableStateImpl$StateStateRecord next
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function2 lambda$788888009
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: int label
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+androidx.compose.runtime.SnapshotMutableLongStateImpl: int $stable
+com.example.waterreminder.receiver.WaterActionReceiver: com.example.waterreminder.receiver.WaterActionReceiver$Companion Companion
+com.example.waterreminder.receiver.WaterActionReceiver: int $stable
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.SnapshotMutationPolicy policy
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzct zzp
+com.google.android.gms.wearable.internal.zzu: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$1696523683
+androidx.activity.ComponentActivity: kotlin.Lazy defaultViewModelProviderFactory$delegate
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+androidx.fragment.app.BackStackRecordState: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.receiver.BootReceiver: com.example.waterreminder.receiver.BootReceiver$Companion Companion
+com.example.waterreminder.data.WaterRepository: int DEFAULT_INTERVAL
+com.google.android.gms.wearable.internal.zzch: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onTrimMemoryListeners
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+androidx.core.app.ComponentActivity: androidx.collection.SimpleArrayMap extraDataMap
+com.google.android.gms.wearable.internal.zzee: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzfd: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onNewIntentListeners
+com.example.waterreminder.receiver.WaterActionReceiver: java.lang.String TAG
+com.google.android.gms.common.internal.zat: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzez: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1: com.example.waterreminder.sync.WearableDataSync $sync$inlined
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+com.google.android.gms.internal.wearable.zzae: byte zzg
+com.example.waterreminder.reminder.ReminderScheduler: android.app.AlarmManager alarmManager
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt INSTANCE
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onMultiWindowModeChangedListeners
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.compose.animation.core.AnimationState: androidx.compose.runtime.MutableState value$delegate
+com.example.waterreminder.reminder.NotificationHelper: java.lang.String ACTION_LOG_WATER
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: androidx.compose.runtime.ParcelableSnapshotMutableFloatState$Companion Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzbg: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onPictureInPictureModeChangedListeners
+com.example.waterreminder.data.WaterRepository: com.example.waterreminder.data.WaterRepository$Companion Companion
+androidx.compose.runtime.snapshots.StateObjectImpl: int $stable
+androidx.compose.ui.text.platform.ImmutableBool: boolean value
+com.google.android.gms.wearable.internal.zzer: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.data.WaterRepository: int MAX_GOAL
+com.google.android.gms.wearable.internal.zzap: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzad: int zzj
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzbp zze
+androidx.compose.ui.text.font.AsyncFontListLoader: androidx.compose.ui.text.font.PlatformFontLoader platformFontLoader
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$-747173777
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzad: double zzg
+com.google.android.gms.internal.wearable.zzad: long zzi
+com.google.android.gms.wearable.internal.zzen: android.os.Parcelable$Creator CREATOR
+androidx.core.app.ComponentActivity: androidx.lifecycle.LifecycleRegistry lifecycleRegistry
+com.example.waterreminder.reminder.ReminderScheduler: com.example.waterreminder.reminder.ReminderScheduler$Companion Companion
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzr: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.zzh: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: androidx.compose.runtime.SnapshotMutableFloatStateImpl$FloatStateStateRecord next
+com.example.waterreminder.reminder.NotificationHelper: java.lang.String EXTRA_ADD_AMOUNT
+com.google.android.gms.wearable.internal.zzdz: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzet: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.google.android.gms.internal.wearable.zzae: int zze
+com.google.android.gms.wearable.internal.zzhs: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: com.example.waterreminder.reminder.ReminderScheduler $scheduler
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+com.google.android.gms.wearable.internal.zzho: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+com.google.android.gms.wearable.internal.zzep: android.os.Parcelable$Creator CREATOR
+androidx.compose.ui.text.font.AsyncFontListLoader: java.util.List fontList
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzad zzb
+com.example.waterreminder.presentation.MainActivity: int $stable
+com.example.waterreminder.reminder.ReminderScheduler: android.content.Context context
+com.example.waterreminder.reminder.NotificationHelper: android.content.Context context
+androidx.compose.ui.text.font.TypefaceResult$Immutable: boolean cacheable
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+androidx.fragment.app.FragmentManager$LaunchedFragmentInfo: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+com.google.android.gms.wearable.PutDataRequest: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: androidx.activity.ComponentActivity$Companion Companion
+androidx.compose.animation.core.AnimationState: boolean isRunning
+com.example.waterreminder.data.WaterRepository: java.lang.String KEY_LAST_DAY
+com.example.waterreminder.data.WaterRepository: int MAX_INTERVAL
+com.example.waterreminder.data.WaterRepository: int MIN_INTERVAL
+com.example.waterreminder.presentation.theme.ColorKt: long PhoneBackgroundBottom
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+com.google.android.gms.wearable.internal.zzcf: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+com.google.android.gms.internal.wearable.zzah: byte zze
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.google.android.gms.wearable.internal.zzdr: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 lambda$698511907
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+com.google.android.gms.internal.wearable.zzaf: com.google.android.gms.internal.wearable.zzae zzf
+com.example.waterreminder.data.WaterRepository: java.lang.String KEY_DAILY_GOAL
+com.example.waterreminder.receiver.WaterReminderReceiver: java.lang.String TAG
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+androidx.compose.animation.core.AnimationState: int $stable
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+androidx.compose.animation.core.AnimationState: long lastFrameTimeNanos
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$-1220622705
+androidx.activity.ComponentActivity: boolean hasPictureInPictureSystemFeature
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+com.google.android.gms.wearable.internal.zzf: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: boolean dispatchingOnMultiWindowModeChanged
+com.example.waterreminder.reminder.NotificationHelper: com.example.waterreminder.reminder.NotificationHelper$Companion Companion
+com.google.android.gms.internal.wearable.zzaf: java.lang.String zze
+androidx.compose.ui.text.font.AsyncFontListLoader: androidx.compose.ui.text.font.AsyncTypefaceCache asyncTypefaceCache
+androidx.activity.ComponentActivity: java.util.concurrent.atomic.AtomicInteger nextLocalRequestCode
+com.google.android.gms.wearable.internal.zzdn: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.theme.ColorKt: long CardElevatedBackground
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableState: androidx.compose.runtime.ParcelableSnapshotMutableState$Companion Companion
+com.example.waterreminder.presentation.theme.ColorKt: long AquaSecondary
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzfj: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzei: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzcs zzq
+com.google.android.gms.wearable.internal.zzbz: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.reminder.NotificationHelper: android.app.NotificationManager notificationManager
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+com.google.android.gms.wearable.internal.zzhi: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$1132352846
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzfh: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.google.android.gms.internal.wearable.zzaf: com.google.android.gms.internal.wearable.zzaf zzb
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+com.example.waterreminder.presentation.theme.ColorKt: long TextSecondary
+com.google.android.gms.internal.wearable.zzaf: byte zzg
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+com.google.android.gms.common.api.internal.BasePendingResult: com.google.android.gms.common.api.internal.zas resultGuardian
+com.google.android.gms.internal.wearable.zzad: java.lang.String zzf
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+com.google.android.gms.wearable.Term: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.data.WaterRepository: int DEFAULT_GOAL
+androidx.lifecycle.Lifecycle$Event: kotlin.enums.EnumEntries $ENTRIES
+androidx.compose.ui.text.font.TypefaceResult$Immutable: int $stable
+com.google.android.gms.wearable.Asset: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzad: float zzh
+com.google.android.gms.wearable.internal.zzn: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzad: com.google.android.gms.internal.wearable.zzcu zzo
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.MethodInvocation: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+com.example.waterreminder.reminder.ReminderScheduler: int REMINDER_REQ_CODE
+com.google.android.gms.common.internal.zav: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzjp: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$-725219346
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+com.google.android.gms.wearable.internal.zzbx: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzeg: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.theme.ColorKt: long PhoneBackgroundTop
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+androidx.activity.ComponentActivity: androidx.core.view.MenuHostHelper menuHostHelper
+com.google.android.gms.wearable.internal.zzbr: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzdt: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: androidx.compose.runtime.MutableState $currentIntake$delegate
+com.example.waterreminder.data.WaterRepository: java.lang.String KEY_REMINDER_ENABLED
+com.example.waterreminder.receiver.BootReceiver: java.lang.String TAG
+com.google.android.gms.internal.wearable.zzad: int zzd
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+androidx.compose.animation.core.AnimationState: androidx.compose.animation.core.AnimationVector velocityVector
+com.google.android.gms.internal.wearable.zzah: com.google.android.gms.internal.wearable.zzah zzb
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+androidx.transition.ChangeBounds$6: androidx.transition.ChangeBounds$ViewBounds mViewBounds
+com.google.android.gms.internal.wearable.zzae: com.google.android.gms.internal.wearable.zzae zzb
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+com.example.waterreminder.data.WaterRepository: android.content.SharedPreferences prefs
+androidx.activity.ComponentActivity: androidx.savedstate.SavedStateRegistryController savedStateRegistryController
+androidx.compose.ui.text.font.AsyncFontListLoader: androidx.compose.runtime.MutableState value$delegate
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: androidx.compose.runtime.MutableState $intervalMinutes$delegate
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+androidx.compose.ui.text.font.AsyncFontListLoader: kotlin.jvm.functions.Function1 onCompletion
+androidx.activity.ComponentActivity: int contentLayoutId
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$438653887
+androidx.compose.runtime.snapshots.SnapshotStateList: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.google.android.gms.internal.wearable.zzad: long zzr
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzcd: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.google.android.gms.wearable.internal.zzhd: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+com.google.android.gms.wearable.internal.zzeb: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$-1236202681
+com.google.android.gms.internal.wearable.zzad: byte zzs
+com.google.android.gms.wearable.internal.zzhu: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzaf: int zzd
+com.google.android.gms.wearable.internal.zzdv: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.wearable.zzco: com.google.android.gms.internal.wearable.zzeq zzc
+com.example.waterreminder.receiver.BootReceiver: int $stable
+com.google.android.gms.wearable.internal.zzex: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: int $stable
+com.google.android.gms.signin.internal.zag: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+androidx.compose.runtime.ParcelableSnapshotMutableState: int PolicyNeverEquals
+com.google.android.gms.internal.wearable.zzae: int zzd
+com.google.android.gms.internal.wearable.zzah: com.google.android.gms.internal.wearable.zzcu zzd
+androidx.compose.runtime.DerivedSnapshotState: kotlin.jvm.functions.Function0 calculation
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: androidx.compose.runtime.ParcelableSnapshotMutableLongState$Companion Companion
+androidx.compose.runtime.SnapshotMutableLongStateImpl: androidx.compose.runtime.SnapshotMutableLongStateImpl$LongStateStateRecord next
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+com.google.android.gms.wearable.internal.zzff: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt INSTANCE
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.android.gms.internal.wearable.zzae: com.google.android.gms.internal.wearable.zzad zzf
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+androidx.compose.ui.text.font.AsyncFontListLoader: androidx.compose.ui.text.font.TypefaceRequest typefaceRequest
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onUserLeaveHintListeners
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: androidx.activity.compose.ManagedActivityResultLauncher $notificationPermissionLauncher
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList onConfigurationChangedListeners
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+androidx.activity.ComponentActivity: kotlin.Lazy onBackPressedDispatcher$delegate
+com.google.android.gms.wearable.internal.zzhw: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: androidx.compose.runtime.ParcelableSnapshotMutableIntState$Companion Companion
+androidx.compose.ui.text.font.AsyncFontListLoader: int $stable
+com.google.android.gms.wearable.internal.zzhq: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 lambda$-368917966
+com.google.android.gms.internal.wearable.zzad: boolean zzl
+com.google.android.gms.wearable.internal.zzb: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.internal.zzdx: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 lambda$-1580766040
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.google.android.gms.wearable.internal.zzp: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+com.example.waterreminder.presentation.theme.ColorKt: long CardGlassBackground
+com.google.android.gms.internal.wearable.zzad: int zzk
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.DerivedSnapshotState$ResultRecord first
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.compose.animation.core.AnimationState: androidx.compose.animation.core.TwoWayConverter typeConverter
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+androidx.compose.runtime.SnapshotMutableIntStateImpl: androidx.compose.runtime.SnapshotMutableIntStateImpl$IntStateStateRecord next
+com.google.android.gms.wearable.internal.DataItemAssetParcelable: android.os.Parcelable$Creator CREATOR
+com.example.waterreminder.presentation.theme.ColorKt: long PhoneBackgroundMiddle
+com.example.waterreminder.presentation.theme.ColorKt: long AquaPrimaryVariant
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+com.google.android.gms.wearable.internal.zzel: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wearable.zzf: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: java.lang.Object getValue()
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultRegistry getActivityResultRegistry()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void addOnConfigurationChangedListener(androidx.core.util.Consumer)
+androidx.compose.runtime.MutableIntState: java.lang.Object component1()
+androidx.activity.ComponentActivity: void removeOnConfigurationChangedListener(androidx.core.util.Consumer)
+androidx.activity.ComponentActivity: void onPanelClosed(int,android.view.Menu)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.compose.runtime.MutableLongState: kotlin.jvm.functions.Function1 component2()
+com.example.waterreminder.presentation.theme.ColorKt: long getAquaElectric()
+androidx.compose.animation.core.AnimationState: void setLastFrameTimeNanos$animation_core(long)
+com.example.waterreminder.presentation.theme.ColorKt: long getAquaSecondary()
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.Unit lambda_698511907$lambda$0(androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: void setValue(float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int access$WaterReminderMobileApp$lambda$14(androidx.compose.runtime.MutableState)
+androidx.compose.ui.text.font.AsyncFontListLoader: AsyncFontListLoader(java.util.List,java.lang.Object,androidx.compose.ui.text.font.TypefaceRequest,androidx.compose.ui.text.font.AsyncTypefaceCache,kotlin.jvm.functions.Function1,androidx.compose.ui.text.font.PlatformFontLoader)
+com.example.waterreminder.presentation.MainActivity: void onCreate(android.os.Bundle)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag[] values()
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+androidx.core.app.ComponentActivity: boolean superDispatchKeyEvent(android.view.KeyEvent)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+com.example.waterreminder.sync.WearDataListenerService: WearDataListenerService()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner$FrameEndScheduler getFrameEndScheduler$ui()
+androidx.activity.ComponentActivity: void removeOnContextAvailableListener(androidx.activity.contextaware.OnContextAvailableListener)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function2 getLambda$1550769320$mobile()
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+androidx.compose.runtime.SnapshotMutableStateImpl: SnapshotMutableStateImpl(java.lang.Object,androidx.compose.runtime.SnapshotMutationPolicy)
+androidx.compose.runtime.MutableFloatState: void access$setValue$jd(androidx.compose.runtime.MutableFloatState,float)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.google.android.gms.internal.wearable.zzfa: com.google.android.gms.internal.wearable.zzfa[] values()
+androidx.compose.runtime.MutableLongState: void setValue(long)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: SnapshotMutableIntStateImpl(int)
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 getLambda$-368917966$mobile()
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.geometry.Rect getEmbeddedViewFocusRect()
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+androidx.compose.animation.core.AnimationState: java.lang.Object getVelocity()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$-1580766040$mobile()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.runtime.MutableLongState: void setValue(java.lang.Object)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: void setIntValue(int)
+androidx.fragment.app.DefaultSpecialEffectsController$Api26Impl: void reverse(android.animation.AnimatorSet)
+androidx.core.view.WindowInsetsCompat$Impl35: WindowInsetsCompat$Impl35(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl35)
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.compose.runtime.DerivedState: java.lang.Object getValue()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AndroidAutofillManager get_autofillManager$ui()
+androidx.compose.runtime.MutableLongState: long access$getValue$jd(androidx.compose.runtime.MutableLongState)
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: void setValue(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.runtime.MutableLongState: void access$setValue$jd(androidx.compose.runtime.MutableLongState,long)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: int getImportantForAutofill()
+androidx.compose.runtime.MutableFloatState: void setValue(float)
+androidx.compose.ui.text.font.AsyncFontListLoader: androidx.compose.ui.text.font.PlatformFontLoader access$getPlatformFontLoader$p(androidx.compose.ui.text.font.AsyncFontListLoader)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda__1236202681$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.activity.ComponentActivity: void setPictureInPictureParams(androidx.core.app.PictureInPictureParamsCompat)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.activity.ComponentActivity: void addOnMultiWindowModeChangedListener(androidx.core.util.Consumer)
+androidx.activity.ComponentActivity: void onBackPressed()
+androidx.compose.runtime.DerivedSnapshotState: void getDebuggerDisplayValue$annotations()
+androidx.compose.runtime.MutableFloatState: kotlin.jvm.functions.Function1 component2()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$6(androidx.compose.runtime.MutableState,int)
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultLauncher registerForActivityResult(androidx.activity.result.contract.ActivityResultContract,androidx.activity.result.ActivityResultCallback)
+com.example.waterreminder.data.WaterRepository: void checkAndResetDailyIntake()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int access$WaterReminderMobileApp$lambda$8(androidx.compose.runtime.MutableState)
+androidx.compose.runtime.snapshots.SnapshotMutableState: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+com.example.waterreminder.presentation.theme.ThemeKt: kotlin.Unit DrinkItMobileTheme$lambda$0(kotlin.jvm.functions.Function2,int,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: java.lang.Float getValue()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+com.example.waterreminder.data.WaterRepository: void setCurrentIntake(int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+androidx.compose.runtime.LongState: long getLongValue()
+androidx.core.view.WindowInsetsCompat$Impl35: java.util.List getBoundingRects(int)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$addWaterAndSync(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,int)
+androidx.core.view.WindowInsetsCompat$Impl: void setSystemUiVisibility(int)
+androidx.compose.runtime.MutableState: java.lang.Object getValue()
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState valueOf(java.lang.String)
+androidx.compose.runtime.MutableFloatState: java.lang.Object getValue()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType[] values()
+com.example.waterreminder.reminder.ReminderScheduler: android.app.PendingIntent createShowIntent()
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+com.example.waterreminder.receiver.BootReceiver: BootReceiver()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+androidx.compose.runtime.SnapshotMutableStateImpl: void setValue(java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl35: WindowInsetsCompat$Impl35(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$18(androidx.compose.runtime.MutableState,boolean)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.text.font.AsyncFontListLoader: void setValue(java.lang.Object)
+androidx.compose.runtime.MutableLongState: java.lang.Object getValue()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1: void dispose()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$15(androidx.compose.runtime.MutableState,int)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: java.lang.Object getValue()
+androidx.activity.ComponentActivity: void reportFullyDrawn()
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State[] values()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag valueOf(java.lang.String)
+androidx.fragment.app.DialogFragment: DialogFragment()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: void setFloatValue(float)
+androidx.compose.ui.text.font.AsyncFontListLoader: java.lang.Object load(kotlin.coroutines.Continuation)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: void writeToParcel(android.os.Parcel,int)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.runtime.SnapshotMutableStateImpl: kotlin.jvm.functions.Function1 component2()
+androidx.activity.ComponentActivity: void onUserLeaveHint()
+com.example.waterreminder.reminder.NotificationHelper: void showNotification()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl31)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void initTypeBoundingRects(androidx.core.view.WindowInsetsCompat)
+androidx.compose.runtime.FloatState: float access$getValue$jd(androidx.compose.runtime.FloatState)
+com.example.waterreminder.reminder.ReminderScheduler$Companion: ReminderScheduler$Companion()
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.activity.ComponentActivity: boolean onCreatePanelMenu(int,android.view.Menu)
+androidx.compose.runtime.IntState: java.lang.Integer getValue()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.example.waterreminder.presentation.theme.ThemeKt: void DrinkItMobileTheme(kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$1$1$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.graphics.AndroidPath_androidKt: void throwIllegalStateException(java.lang.String)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_1132352846$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: long getLongValue()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.transition.FragmentTransitionSupport: FragmentTransitionSupport()
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+androidx.compose.animation.core.AnimationState: java.lang.String toString()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope)
+androidx.fragment.app.DefaultSpecialEffectsController$Api24Impl: long totalDuration(android.animation.AnimatorSet)
+androidx.compose.animation.core.AnimationState: long getFinishedTimeNanos()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function2 getLambda$788888009$mobile()
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean systemBarVisibilityEquals(int,int)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: java.lang.String toString()
+androidx.compose.runtime.LongState: java.lang.Object getValue()
+androidx.compose.animation.core.AnimationState: AnimationState(androidx.compose.animation.core.TwoWayConverter,java.lang.Object,androidx.compose.animation.core.AnimationVector,long,long,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: void setLongValue(long)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView getOutOfFrameExecutor()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$1696523683$mobile()
+androidx.activity.ComponentActivity: void removeOnUserLeaveHintListener(java.lang.Runnable)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+com.example.waterreminder.presentation.theme.ColorKt: long getCardElevatedBackground()
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$2(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,java.lang.String,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.foundation.layout.ColumnScope,androidx.compose.runtime.Composer,int)
+com.example.waterreminder.receiver.WaterReminderReceiver: void onReceive(android.content.Context,android.content.Intent)
+androidx.compose.runtime.snapshots.SnapshotMutableState: kotlin.jvm.functions.Function1 component2()
+androidx.compose.ui.text.font.TypefaceResult$Immutable: boolean getCacheable()
+com.google.android.gms.common.ErrorDialogFragment: ErrorDialogFragment()
+androidx.compose.runtime.SnapshotMutableStateImpl: androidx.compose.runtime.snapshots.StateRecord getFirstStateRecord()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: float getFloatValue()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.compose.ui.window.Api30Impl: void setFitInsetsTypes(android.view.WindowManager$LayoutParams,int)
+com.example.waterreminder.receiver.WaterActionReceiver: WaterActionReceiver()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: void setValue(long)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$658903918$mobile()
+androidx.compose.runtime.SnapshotMutableStateImpl: void getValue$annotations()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: void prependStateRecord(androidx.compose.runtime.snapshots.StateRecord)
+androidx.activity.ComponentActivity: void removeOnPictureInPictureUiStateChangedListener(androidx.core.util.Consumer)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.activity.ComponentActivity: boolean onMenuItemSelected(int,android.view.MenuItem)
+com.example.waterreminder.receiver.WaterReminderReceiver$Companion: WaterReminderReceiver$Companion()
+androidx.compose.runtime.MutableFloatState: float getFloatValue()
+androidx.core.view.WindowInsetsCompat$Impl20: void setTypeMaxBoundingRectsMap(android.graphics.Rect[][])
+androidx.core.view.WindowInsetsCompat$Impl: java.util.List getBoundingRectsIgnoringVisibility(int)
+androidx.compose.animation.core.AnimationState: void setRunning$animation_core(boolean)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$0(androidx.compose.runtime.State,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,int,androidx.compose.foundation.layout.ColumnScope,androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$5$0(androidx.compose.runtime.MutableState)
+androidx.core.view.WindowInsetsCompat$Impl: void setDisplayShape(androidx.core.view.DisplayShapeCompat)
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: java.lang.Integer getValue()
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$1(androidx.compose.material.ripple.RippleHostView)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda__1580766040$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.LongState: java.lang.Long getValue()
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+com.google.android.gms.internal.wearable.zzfb: com.google.android.gms.internal.wearable.zzfb[] values()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: boolean WaterReminderMobileApp$lambda$17(androidx.compose.runtime.MutableState)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: androidx.compose.runtime.snapshots.StateRecord mergeRecords(androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord)
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.MutableIntObjectMap getLayoutNodes()
+com.example.waterreminder.presentation.theme.ColorKt: long getPhoneBackgroundTop()
+com.example.waterreminder.data.WaterRepository: void setReminderEnabled(boolean)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+androidx.activity.ComponentActivity: void setContentView(int)
+androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop valueOf(java.lang.String)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.DerivedSnapshotState$ResultRecord currentRecord(androidx.compose.runtime.DerivedSnapshotState$ResultRecord,androidx.compose.runtime.snapshots.Snapshot,boolean,kotlin.jvm.functions.Function0)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: ParcelableSnapshotMutableFloatState(float)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState[] values()
+androidx.activity.ComponentActivity: void initializeViewTreeOwners()
+androidx.compose.ui.text.font.AsyncFontListLoader: java.lang.Object loadWithTimeoutOrNull$ui_text(androidx.compose.ui.text.font.Font,kotlin.coroutines.Continuation)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$1132352846$mobile()
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui(long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.activity.ComponentActivity: void addOnContextAvailableListener(androidx.activity.contextaware.OnContextAvailableListener)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+com.example.waterreminder.data.WaterRepository: int decreaseGoal()
+androidx.core.view.WindowInsetsCompat$BuilderImpl36: WindowInsetsCompat$BuilderImpl36(androidx.core.view.WindowInsetsCompat)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$3$0$1$0$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OutOfFrameExecutor getOutOfFrameExecutor()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+com.example.waterreminder.receiver.WaterActionReceiver$Companion: WaterActionReceiver$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics()
+androidx.compose.animation.core.AnimationState: void setVelocityVector$animation_core(androidx.compose.animation.core.AnimationVector)
+com.example.waterreminder.reminder.NotificationHelper$Companion: NotificationHelper$Companion()
+com.example.waterreminder.reminder.NotificationHelper: void createNotificationChannel()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: java.lang.Integer component1()
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.runtime.FloatState: float getFloatValue()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.activity.ComponentActivity: androidx.navigationevent.NavigationEventDispatcher getNavigationEventDispatcher()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int access$WaterReminderMobileApp$lambda$5(androidx.compose.runtime.MutableState)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$-725219346$mobile()
+androidx.compose.runtime.SnapshotMutableStateImpl: void prependStateRecord(androidx.compose.runtime.snapshots.StateRecord)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider,androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$State)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.ui.util.ListUtilsKt: void throwUnsupportedOperationException(java.lang.String)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: int getDebuggerDisplayValue()
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.activity.ComponentActivity: androidx.activity.FullyDrawnReporter getFullyDrawnReporter()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$3(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$438653887$mobile()
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+androidx.compose.ui.text.platform.ImmutableBool: java.lang.Boolean getValue()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.compose.runtime.MutableIntState: void setIntValue(int)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: java.lang.Float getValue()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+com.example.waterreminder.data.WaterRepository: void resetIntake()
+androidx.core.view.WindowInsetsCompat$Impl: void initDisplayShape(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent[] values()
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui$annotations()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.runtime.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.runtime.DerivedSnapshotState: java.lang.String toString()
+androidx.compose.ui.text.font.TypefaceResult: java.lang.Object getValue()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: java.lang.Float component1()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda__1220622705$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_658903918$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler$ui(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.AndroidDragAndDropManager getDragAndDropManager()
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: void prependStateRecord(androidx.compose.runtime.snapshots.StateRecord)
+androidx.core.app.ComponentActivity: boolean shouldDumpInternalState(java.lang.String[])
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.compose.animation.core.AnimationState: AnimationState(androidx.compose.animation.core.TwoWayConverter,java.lang.Object,androidx.compose.animation.core.AnimationVector,long,long,boolean)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1: WaterReminderMobileAppKt$WaterReminderMobileApp$lambda$22$0$$inlined$onDispose$1(com.example.waterreminder.sync.WearableDataSync,com.google.android.gms.wearable.DataClient$OnDataChangedListener)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: void setInsets(int,androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.runtime.snapshots.StateObjectImpl: void recordReadIn-h_f27i8$runtime(int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1(androidx.compose.runtime.State,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,int,com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,java.lang.String,androidx.compose.runtime.MutableState,androidx.compose.foundation.layout.PaddingValues,androidx.compose.runtime.Composer,int)
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+androidx.compose.runtime.MutableIntState: void setValue(int)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.fragment.app.FragmentContainerView: void setOnApplyWindowInsetsListener(android.view.View$OnApplyWindowInsetsListener)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+androidx.activity.ComponentActivity: void enterPictureInPictureMode(androidx.core.app.PictureInPictureParamsCompat)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+androidx.fragment.app.FragmentContainerView: void setDrawDisappearingViewsLast(boolean)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: java.lang.Object getValue()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: SnapshotMutableFloatStateImpl(float)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.compose.ui.text.font.TypefaceResult$Async: androidx.compose.ui.text.font.AsyncFontListLoader getCurrent$ui_text()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$2$0(androidx.compose.runtime.MutableState)
+androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.IndirectPointerInputDragCycleDetector$DragDetectionState$AwaitDown$AwaitTouchSlop[] values()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: kotlin.Unit component2$lambda$0(androidx.compose.runtime.SnapshotMutableIntStateImpl,int)
+androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner: LifecycleRetainedValuesStoreOwner()
+androidx.compose.ui.text.font.TypefaceResult$Async: boolean getCacheable()
+androidx.compose.ui.platform.AndroidComposeView: void setPrimaryDirectionalMotionAxisOverride-r2epLt8$ui(androidx.compose.ui.input.indirect.IndirectPointerEventPrimaryDirectionalMotionAxis)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.activity.ComponentActivity: androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$22$0$0(androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,int,int,boolean,int,long)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.compose.runtime.MutableState: kotlin.jvm.functions.Function1 component2()
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.material3.tokens.MotionSchemeKeyTokens: androidx.compose.material3.tokens.MotionSchemeKeyTokens[] values()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+androidx.compose.ui.input.pointer.PointerInputEventHandler: java.lang.Object invoke(androidx.compose.ui.input.pointer.PointerInputScope,kotlin.coroutines.Continuation)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$9(androidx.compose.runtime.MutableState,int)
+androidx.compose.animation.core.AnimationState: void setValue$animation_core(java.lang.Object)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.compose.runtime.MutableIntState: int getIntValue()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.Clipboard getClipboard()
+androidx.compose.runtime.MutableState: java.lang.Object component1()
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl34)
+androidx.compose.ui.platform.AbstractComposeView: void setAutoClearFocusBehavior-17tfJxM(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+com.example.waterreminder.data.WaterRepository: int increaseGoal()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.runtime.MutableFloatState: java.lang.Float getValue()
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsets(int)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$0$0$0$1$0(int,androidx.compose.runtime.Composer,int)
+androidx.activity.ComponentActivity: void access$ensureViewModelStore(androidx.activity.ComponentActivity)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.compose.ui.platform.Api30Impl: boolean isShowingLayoutBounds(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.spatial.RectManager getRectManager()
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.runtime.collection.MutableVectorKt: void throwReversedIndicesException(int,int)
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: void setValue(int)
+androidx.activity.ComponentActivity: void removeOnTrimMemoryListener(androidx.core.util.Consumer)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+androidx.compose.runtime.snapshots.SnapshotMutableState: void setValue(java.lang.Object)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: void setValue(long)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: void getDebuggerDisplayValue$annotations()
+androidx.compose.ui.platform.AndroidComposeView: void getPrimaryDirectionalMotionAxisOverride-dqNNBbU$ui$annotations()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRects(android.graphics.Rect[][],int)
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+com.example.waterreminder.presentation.theme.ColorKt: long getAquaPrimaryVariant()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: kotlin.jvm.functions.Function1 component2()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: java.lang.Long getValue()
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRects(int)
+androidx.compose.ui.util.ListUtilsKt: java.lang.Void throwNoSuchElementException(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: boolean WaterReminderMobileApp$lambda$11(androidx.compose.runtime.MutableState)
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelStore getViewModelStore()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$30(int,androidx.compose.runtime.Composer,int)
+androidx.activity.ComponentActivity: void startActivityForResult(android.content.Intent,int)
+androidx.fragment.app.DefaultSpecialEffectsController$Api26Impl: void setCurrentPlayTime(android.animation.AnimatorSet,long)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact valueOf(java.lang.String)
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.activity.ComponentActivity: void startActivityForResult(android.content.Intent,int,android.os.Bundle)
+androidx.activity.ComponentActivity: java.lang.Object getLastCustomNonConfigurationInstance()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+androidx.compose.runtime.MutableFloatState: java.lang.Object component1()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: java.lang.Object component1()
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+com.google.android.gms.common.api.internal.zzd: zzd()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int WaterReminderMobileApp$lambda$8(androidx.compose.runtime.MutableState)
+androidx.activity.ComponentActivity: void onSaveInstanceState(android.os.Bundle)
+androidx.compose.runtime.collection.MutableVectorKt: void throwListIndexOutOfBoundsException(int,int)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+com.example.waterreminder.receiver.WaterReminderReceiver: WaterReminderReceiver()
+androidx.compose.runtime.SnapshotMutableStateImpl: java.lang.Object getValue()
+androidx.compose.ui.platform.AndroidComposeView: android.content.res.Configuration getConfiguration()
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: void setInsets(int,androidx.core.graphics.Insets)
+androidx.activity.ComponentActivity: void addOnPictureInPictureUiStateChangedListener(androidx.core.util.Consumer)
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.InsetsListener getInsetsListener()
+androidx.core.view.WindowInsetsCompat$Impl35: java.util.List getBoundingRectsIgnoringVisibility(int)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.font.AsyncFontListLoader: boolean getCacheable$ui_text()
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: void setValue(java.lang.Object)
+androidx.compose.runtime.ParcelableSnapshotMutableState: ParcelableSnapshotMutableState(java.lang.Object,androidx.compose.runtime.SnapshotMutationPolicy)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+com.example.waterreminder.reminder.NotificationHelper: NotificationHelper(android.content.Context)
+com.example.waterreminder.reminder.ReminderScheduler: android.app.PendingIntent createAlarmPendingIntent()
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider,androidx.lifecycle.LifecycleOwner)
+androidx.compose.ui.text.platform.ImmutableBool: java.lang.Object getValue()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int WaterReminderMobileApp$lambda$14(androidx.compose.runtime.MutableState)
+androidx.compose.runtime.MutableIntState: int access$getValue$jd(androidx.compose.runtime.MutableIntState)
+androidx.activity.ComponentActivity: java.lang.Object onRetainCustomNonConfigurationInstance()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$12(androidx.compose.runtime.MutableState,boolean)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_438653887$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.example.waterreminder.reminder.NotificationHelper: void dismissNotification()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.example.waterreminder.data.WaterRepository: int getReminderIntervalMinutes()
+androidx.compose.runtime.snapshots.SnapshotMutableState: java.lang.Object component1()
+androidx.compose.ui.text.internal.InlineClassHelperKt: java.lang.Void throwIllegalArgumentExceptionForNullCheck(java.lang.String)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: float WaterReminderMobileApp$lambda$24(androidx.compose.runtime.State)
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+com.example.waterreminder.reminder.ReminderScheduler$Companion: ReminderScheduler$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.activity.ComponentActivity: androidx.lifecycle.viewmodel.CreationExtras getDefaultViewModelCreationExtras()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$4(androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: androidx.compose.runtime.snapshots.StateRecord getFirstStateRecord()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$4(androidx.compose.runtime.MutableState,com.example.waterreminder.data.WaterRepository,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.foundation.layout.ColumnScope,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: int describeContents()
+androidx.compose.runtime.DerivedSnapshotState: DerivedSnapshotState(kotlin.jvm.functions.Function0,androidx.compose.runtime.SnapshotMutationPolicy)
+androidx.compose.runtime.SnapshotMutableStateImpl: java.lang.String toString()
+androidx.activity.ComponentActivity: void removeOnPictureInPictureModeChangedListener(androidx.core.util.Consumer)
+androidx.core.view.WindowInsetsCompat$Impl34: void initDisplayShape(android.view.View)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.compose.runtime.ParcelableSnapshotMutableState: int describeContents()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.compose.ui.text.font.TypefaceResult$Async: java.lang.Object getValue()
+androidx.core.view.WindowInsetsCompat$TypeImpl34: int toPlatformType(int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$4$0$0(androidx.compose.runtime.MutableState)
+androidx.core.view.WindowInsetsCompat$Impl20: void setSystemUiVisibility(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: WindowInsetsCompat$BuilderImpl35(androidx.core.view.WindowInsetsCompat)
+androidx.compose.runtime.ComposerKt: void composeImmediateRuntimeError(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+androidx.compose.runtime.MutableLongState: java.lang.Long getValue()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: java.lang.Object getValue()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+androidx.compose.runtime.SnapshotMutableStateImpl: java.lang.Object getDebuggerDisplayValue()
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$0$0$0$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState)
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void onTrimMemory(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact[] values()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.IntObjectMap getLayoutNodes()
+com.example.waterreminder.presentation.MainActivity: MainActivity()
+com.example.waterreminder.presentation.theme.ColorKt: long getPhoneBackgroundBottom()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: void setValue(java.lang.Object)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: void setValue(java.lang.Object)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34(androidx.core.view.WindowInsetsCompat)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$3$0$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: void initTypeBoundingRects(androidx.core.view.WindowInsetsCompat)
+com.example.waterreminder.reminder.ReminderScheduler: long scheduleNextReminder(java.lang.Long)
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.runtime.MutableIntState: kotlin.jvm.functions.Function1 component2()
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: void writeToParcel(android.os.Parcel,int)
+androidx.fragment.app.FragmentContainerView: void setLayoutTransition(android.animation.LayoutTransition)
+androidx.activity.ComponentActivity: android.content.Context peekAvailableContext()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda__747173777$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_1550769320$lambda$0(androidx.compose.runtime.Composer,int)
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.runtime.DerivedSnapshotState: void prependStateRecord(androidx.compose.runtime.snapshots.StateRecord)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation[] values()
+androidx.activity.ComponentActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])
+androidx.compose.runtime.SnapshotMutableIntStateImpl: void prependStateRecord(androidx.compose.runtime.snapshots.StateRecord)
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+androidx.compose.runtime.SlotTableKt: void throwConcurrentModificationException()
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+androidx.window.reflection.Predicate2: boolean test(java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.compose.runtime.FloatState: java.lang.Float getValue()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+com.example.waterreminder.receiver.WaterActionReceiver: void onReceive(android.content.Context,android.content.Intent)
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState[] values()
+com.example.waterreminder.data.WaterRepository: boolean isReminderEnabled()
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl36: WindowInsetsCompat$BuilderImpl36()
+androidx.window.reflection.Consumer2: void accept(java.lang.Object)
+androidx.compose.ui.text.platform.ImmutableBool: ImmutableBool(boolean)
+com.example.waterreminder.data.WaterRepository: void setDailyGoal(int)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.compose.runtime.SnapshotMutableStateImpl: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.Unit lambda__368917966$lambda$0(androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$27$0(boolean)
+androidx.core.app.ComponentActivity: boolean dispatchKeyShortcutEvent(android.view.KeyEvent)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: java.lang.Object getValue()
+androidx.compose.runtime.LongState: long access$getValue$jd(androidx.compose.runtime.LongState)
+androidx.activity.ComponentActivity: void addOnUserLeaveHintListener(java.lang.Runnable)
+androidx.compose.ui.text.font.AsyncFontListLoader: void setCacheable$ui_text(boolean)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$3(java.lang.String,com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.foundation.layout.ColumnScope,androidx.compose.runtime.Composer,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: androidx.compose.runtime.snapshots.StateRecord getFirstStateRecord()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$4$0$1$0$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: androidx.compose.runtime.snapshots.StateRecord mergeRecords(androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord)
+androidx.compose.runtime.MutableFloatState: void setValue(java.lang.Object)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: void initDisplayShape(android.view.View)
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics(boolean)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+androidx.compose.ui.window.Api28Impl: void setLayoutInDisplayCutout(android.view.WindowManager$LayoutParams)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillManager getAutofillManager()
+androidx.compose.runtime.MutableLongState: java.lang.Object component1()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: WaterReminderMobileAppKt$WaterReminderMobileApp$2$1(androidx.activity.compose.ManagedActivityResultLauncher,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,kotlin.coroutines.Continuation)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$1$0$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminderMobileApp$2$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl35: void initTypeBoundingRectsMaps()
+com.example.waterreminder.presentation.theme.ColorKt: long getCardGlassBackground()
+androidx.activity.ComponentActivity: void invalidateMenu()
+androidx.compose.runtime.IntState: int getIntValue()
+androidx.core.view.WindowInsetsCompat$Impl34: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+com.example.waterreminder.data.WaterRepository: int decreaseInterval()
+androidx.compose.foundation.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.DisplayShapeCompat createDisplayShape(android.view.View)
+androidx.core.view.ViewCompat$Api30Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.activity.ComponentActivity: void removeMenuProvider(androidx.core.view.MenuProvider)
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.ui.unit.ConstraintsKt: java.lang.Void throwInvalidConstraintsSizeException(int)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$-747173777$mobile()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: void writeToParcel(android.os.Parcel,int)
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: ComposableSingletons$MainActivityKt()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+com.google.android.gms.internal.wearable.zzcy: com.google.android.gms.internal.wearable.zzcy[] values()
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultLauncher registerForActivityResult(androidx.activity.result.contract.ActivityResultContract,androidx.activity.result.ActivityResultRegistry,androidx.activity.result.ActivityResultCallback)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: float WaterReminderMobileApp$lambda$29$1$0$0$0$0$0$0(androidx.compose.runtime.State)
+androidx.compose.animation.core.AnimationState: androidx.compose.animation.core.TwoWayConverter getTypeConverter()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplaySession()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+com.example.waterreminder.data.WaterRepository: WaterRepository(android.content.Context)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: java.lang.Integer getValue()
+androidx.activity.ComponentActivity: void onActivityResult(int,int,android.content.Intent)
+androidx.compose.ui.text.font.AsyncFontListLoader: java.lang.Object getValue()
+androidx.activity.ComponentActivity: void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int)
+androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31(androidx.core.view.WindowInsetsCompat)
+androidx.activity.ComponentActivity: void onNewIntent(android.content.Intent)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: void initTypeBoundingRectsMaps()
+com.google.android.gms.internal.wearable.zzch: com.google.android.gms.internal.wearable.zzch[] values()
+androidx.compose.runtime.DerivedSnapshotState: java.lang.String displayValue()
+androidx.compose.ui.text.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop: androidx.compose.foundation.gestures.DragDetectionState$AwaitDown$AwaitTouchSlop valueOf(java.lang.String)
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+androidx.core.view.WindowInsetsCompat$Impl20: void setDisplayShape(androidx.core.view.DisplayShapeCompat)
+androidx.compose.ui.platform.Api35Impl: void setRequestedFrameRate(android.view.View,float)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_198341725$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.MutableState: void setValue(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler getUncaughtExceptionHandler$ui()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.snapshots.StateRecord current(androidx.compose.runtime.snapshots.Snapshot)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp(androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.indirect.IndirectPointerEventPrimaryDirectionalMotionAxis getPrimaryDirectionalMotionAxisOverride-dqNNBbU$ui()
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.snapshots.StateRecord mergeRecords(androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: kotlin.Unit component2$lambda$0(androidx.compose.runtime.SnapshotMutableLongStateImpl,long)
+androidx.compose.runtime.DerivedState: androidx.compose.runtime.DerivedState$Record getCurrentRecord()
+androidx.compose.runtime.MutableIntState: void setValue(java.lang.Object)
+com.example.waterreminder.data.WaterRepository: int addWater(int)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$4$0$1$1$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.activity.ComponentActivity: void addOnPictureInPictureModeChangedListener(androidx.core.util.Consumer)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: kotlin.jvm.functions.Function1 component2()
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+com.example.waterreminder.reminder.ReminderScheduler: ReminderScheduler(android.content.Context)
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State valueOf(java.lang.String)
+androidx.activity.ComponentActivity: androidx.lifecycle.Lifecycle getLifecycle()
+com.example.waterreminder.receiver.WaterReminderReceiver$Companion: WaterReminderReceiver$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: ParcelableSnapshotMutableIntState(int)
+androidx.compose.runtime.IntState: int access$getValue$jd(androidx.compose.runtime.IntState)
+androidx.compose.material3.tokens.MotionSchemeKeyTokens: androidx.compose.material3.tokens.MotionSchemeKeyTokens valueOf(java.lang.String)
+androidx.compose.animation.core.AnimationState: androidx.compose.animation.core.AnimationVector getVelocityVector()
+androidx.compose.ui.graphics.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.platform.AndroidComposeView: void setConfiguration(android.content.res.Configuration)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int WaterReminderMobileApp$lambda$5(androidx.compose.runtime.MutableState)
+androidx.activity.ComponentActivity: void addContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+com.google.android.gms.common.api.internal.zzb: zzb()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+androidx.compose.ui.text.font.TypefaceResult$Immutable: TypefaceResult$Immutable(java.lang.Object,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_1696523683$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.fragment.app.FragmentContainerView: androidx.fragment.app.Fragment getFragment()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$0$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.example.waterreminder.receiver.WaterActionReceiver$Companion: WaterActionReceiver$Companion()
+com.example.waterreminder.data.WaterRepository: int getCurrentIntake()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui()
+androidx.activity.ComponentActivity: void onMultiWindowModeChanged(boolean)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: int WaterReminderMobileApp$lambda$20(androidx.compose.runtime.MutableState)
+com.example.waterreminder.receiver.BootReceiver: void onReceive(android.content.Context,android.content.Intent)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: java.lang.Object component1()
+androidx.compose.runtime.ComposerKt: java.lang.Void composeRuntimeError(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.snapshots.StateRecord getFirstStateRecord()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: androidx.compose.runtime.snapshots.StateRecord mergeRecords(androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRectsIgnoringVisibility(int)
+androidx.compose.ui.platform.AbstractComposeView: int getAutoClearFocusBehavior-4UtRPd4()
+com.example.waterreminder.reminder.ReminderScheduler: long scheduleNextReminder$default(com.example.waterreminder.reminder.ReminderScheduler,java.lang.Long,int,java.lang.Object)
+androidx.compose.ui.node.LayoutNode: java.lang.String exceptionMessageForParentingOrOwnership(androidx.compose.ui.node.LayoutNode)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: java.lang.Object getValue()
+androidx.compose.runtime.MutableLongState: void setLongValue(long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.compose.runtime.snapshots.StateObjectImpl: boolean isReadIn-h_f27i8$runtime(int)
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+androidx.compose.runtime.SnapshotMutableStateImpl: androidx.compose.runtime.snapshots.StateRecord mergeRecords(androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord,androidx.compose.runtime.snapshots.StateRecord)
+androidx.compose.foundation.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.compose.runtime.DerivedState: androidx.compose.runtime.SnapshotMutationPolicy getPolicy()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.compose.runtime.collection.MutableVectorKt: void throwOutOfRangeException(int,int)
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+androidx.activity.ComponentActivity: void onPictureInPictureUiStateChanged(android.app.PictureInPictureUiState)
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui()
+androidx.compose.runtime.FloatState: java.lang.Object getValue()
+androidx.compose.runtime.collection.MutableVectorKt: void throwNegativeIndexException(int)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.compose.foundation.internal.InlineClassHelperKt: java.lang.Void throwIllegalArgumentExceptionForNullCheck(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: void setTypeMaxBoundingRectsMap(android.graphics.Rect[][])
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+androidx.core.view.WindowInsetsCompat$Impl: void setTypeBoundingRectsMap(android.graphics.Rect[][])
+androidx.core.view.WindowInsetsCompat$Impl20: void initTypeBoundingRectsMaps()
+androidx.compose.runtime.SnapshotMutableStateImpl: kotlin.Unit component2$lambda$0(androidx.compose.runtime.SnapshotMutableStateImpl,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: int describeContents()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+androidx.compose.runtime.MutableIntState: java.lang.Object getValue()
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$198341725$mobile()
+com.example.waterreminder.data.WaterRepository: int getDailyGoal()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: androidx.compose.runtime.snapshots.StateRecord getFirstStateRecord()
+androidx.compose.runtime.DerivedSnapshotState: java.lang.Object getValue()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: ParcelableSnapshotMutableLongState(long)
+com.example.waterreminder.receiver.BootReceiver$Companion: BootReceiver$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: java.lang.Object component1()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+androidx.core.app.ComponentActivity: boolean dispatchKeyEvent(android.view.KeyEvent)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+androidx.compose.runtime.SnapshotMutableFloatStateImpl: kotlin.Unit component2$lambda$0(androidx.compose.runtime.SnapshotMutableFloatStateImpl,float)
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelProvider$Factory getDefaultViewModelProviderFactory()
+androidx.activity.ComponentActivity: void addOnTrimMemoryListener(androidx.core.util.Consumer)
+androidx.compose.ui.window.Api30Impl: int getMaxDialogHeightExcludingSystemBarInsets(android.view.Window)
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent valueOf(java.lang.String)
+androidx.compose.runtime.MutableIntState: void access$setValue$jd(androidx.compose.runtime.MutableIntState,int)
+androidx.compose.runtime.DerivedSnapshotState: java.lang.Object getDebuggerDisplayValue()
+androidx.compose.ui.window.Api30Impl: void setFitInsetsSides(android.view.WindowManager$LayoutParams,int)
+androidx.compose.foundation.text.selection.DownResolution: androidx.compose.foundation.text.selection.DownResolution valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$-1220622705$mobile()
+com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 getLambda$698511907$mobile()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: java.lang.String toString()
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+androidx.activity.ComponentActivity: void onPictureInPictureModeChanged(boolean,android.content.res.Configuration)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: java.lang.Long getValue()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.activity.ComponentActivity: void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle)
+androidx.compose.ui.text.font.TypefaceResult$Immutable: java.lang.Object getValue()
+androidx.compose.runtime.MutableIntState: java.lang.Integer getValue()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: void setValue(java.lang.Object)
+com.example.waterreminder.receiver.BootReceiver$Companion: BootReceiver$Companion()
+androidx.core.view.WindowInsetsCompat$Impl20: void setTypeBoundingRectsMap(android.graphics.Rect[][])
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+androidx.compose.runtime.MutableLongState: long getLongValue()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.runtime.MutableFloatState: void setFloatValue(float)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+androidx.compose.runtime.IntState: java.lang.Object getValue()
+androidx.activity.ComponentActivity: void addOnNewIntentListener(androidx.core.util.Consumer)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.activity.ComponentActivity: androidx.savedstate.SavedStateRegistry getSavedStateRegistry()
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: ComposableSingletons$WaterReminderMobileAppKt()
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.core.app.ComponentActivity: androidx.core.app.ComponentActivity$ExtraData getExtraData(java.lang.Class)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda__725219346$lambda$0(androidx.compose.foundation.layout.RowScope,androidx.compose.runtime.Composer,int)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: SnapshotMutableLongStateImpl(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void onConfigurationChanged(android.content.res.Configuration)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: boolean access$WaterReminderMobileApp$lambda$11(androidx.compose.runtime.MutableState)
+androidx.compose.ui.text.font.TypefaceResult$Async: TypefaceResult$Async(androidx.compose.ui.text.font.AsyncFontListLoader)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+androidx.compose.ui.unit.ConstraintsKt: void throwInvalidConstraintException(int,int)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.runtime.retain.impl.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void setFrameEndScheduler$ui(androidx.compose.ui.platform.LifecycleRetainedValuesStoreOwner$FrameEndScheduler)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: int describeContents()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.compose.runtime.ParcelableSnapshotMutableState: void writeToParcel(android.os.Parcel,int)
+androidx.compose.animation.core.AnimationState: java.lang.Object getValue()
+androidx.compose.foundation.layout.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.Unit lambda_788888009$lambda$0(androidx.compose.runtime.Composer,int)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$2$0$1$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,boolean)
+androidx.activity.ComponentActivity: void onMultiWindowModeChanged(boolean,android.content.res.Configuration)
+androidx.compose.runtime.DerivedSnapshotState: androidx.compose.runtime.DerivedState$Record getCurrentRecord()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: void setValue(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: java.util.List getBoundingRects(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: WindowInsetsCompat$BuilderImpl35()
+androidx.compose.runtime.SnapshotMutableIntStateImpl: kotlin.jvm.functions.Function1 component2()
+androidx.activity.ComponentActivity: void onPictureInPictureModeChanged(boolean)
+androidx.compose.ui.platform.AndroidComposeView: void getRoot$annotations()
+com.example.waterreminder.data.WaterRepository: void setReminderIntervalMinutes(int)
+androidx.compose.runtime.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: void setValue(java.lang.Object)
+androidx.compose.ui.graphics.layer.view.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.core.app.ComponentActivity: void putExtraData(androidx.core.app.ComponentActivity$ExtraData)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: void setValue(float)
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$1$2$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.compose.runtime.SnapshotMutableIntStateImpl: int getIntValue()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.compose.ui.text.font.TypefaceResult$Immutable: TypefaceResult$Immutable(java.lang.Object,boolean)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.example.waterreminder.reminder.ReminderScheduler: void cancelReminder()
+com.example.waterreminder.reminder.NotificationHelper$Companion: NotificationHelper$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.example.waterreminder.presentation.theme.ColorKt: long getTextSecondary()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboard getClipboard()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt: kotlin.jvm.functions.Function3 getLambda$-1236202681$mobile()
+androidx.compose.ui.window.Api21Impl: int getMaxDialogHeightExcludingSystemBarInsets(android.view.Window)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+androidx.activity.ComponentActivity: boolean onPreparePanel(int,android.view.View,android.view.Menu)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.compose.animation.core.AnimationState: boolean isRunning()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.compose.runtime.DerivedSnapshotState: kotlin.Unit currentRecord$lambda$1$0$0(androidx.compose.runtime.DerivedSnapshotState,androidx.compose.runtime.internal.IntRef,androidx.collection.MutableObjectIntMap,int,java.lang.Object)
+androidx.compose.animation.core.AnimationState: void setFinishedTimeNanos$animation_core(long)
+com.example.waterreminder.data.WaterRepository$Companion: WaterRepository$Companion()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.activity.ComponentActivity: void setContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+androidx.compose.foundation.text.selection.DownResolution: androidx.compose.foundation.text.selection.DownResolution[] values()
+com.example.waterreminder.presentation.theme.ColorKt: long getPhoneBackgroundMiddle()
+androidx.compose.runtime.snapshots.SnapshotMutableState: java.lang.Object getValue()
+androidx.compose.ui.platform.AndroidComposeView: void getTextInputService$annotations()
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.runtime.MutableFloatState: float access$getValue$jd(androidx.compose.runtime.MutableFloatState)
+androidx.activity.ComponentActivity: void removeOnMultiWindowModeChangedListener(androidx.core.util.Consumer)
+androidx.compose.runtime.SnapshotMutableStateImpl: void getDebuggerDisplayValue$annotations()
+androidx.compose.animation.core.AnimationState: long getLastFrameTimeNanos()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl20: android.graphics.Rect[] getBoundingRectsFromInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.font.TypefaceResult: boolean getCacheable()
+com.google.android.gms.common.SupportErrorDialogFragment: SupportErrorDialogFragment()
+androidx.activity.ComponentActivity: java.lang.Object onRetainNonConfigurationInstance()
+androidx.compose.runtime.SnapshotMutableLongStateImpl: java.lang.String toString()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.runtime.SnapshotMutableStateImpl: java.lang.Object component1()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: kotlin.Unit WaterReminderMobileApp$lambda$29$1$0$3$0$1$1$0(com.example.waterreminder.data.WaterRepository,com.example.waterreminder.reminder.ReminderScheduler,com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt: void WaterReminderMobileApp$lambda$21(androidx.compose.runtime.MutableState,int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+androidx.compose.foundation.layout.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.runtime.retain.RetainedValuesStore getRetainedValuesStore()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.compose.runtime.SnapshotMutableLongStateImpl: java.lang.Long component1()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.activity.ComponentActivity: void removeOnNewIntentListener(androidx.core.util.Consumer)
+com.example.waterreminder.data.WaterRepository: int increaseInterval()
+com.example.waterreminder.data.WaterRepository$Companion: WaterRepository$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.reflection.JFunction2: java.lang.Object apply(java.lang.Object)

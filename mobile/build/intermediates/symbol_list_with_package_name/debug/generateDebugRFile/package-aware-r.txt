@@ -1,0 +1,11 @@
+com.example.waterreminder
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_water_drop_complication
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme_WaterReminder
+xml backup_rules
+xml data_extraction_rules

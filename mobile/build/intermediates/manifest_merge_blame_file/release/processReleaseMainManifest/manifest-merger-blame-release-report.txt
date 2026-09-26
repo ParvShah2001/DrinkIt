@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.main.waterreminder"
+4    android:versionCode="102"
+5    android:versionName="10.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->D:\Drink it\mobile\src\main\AndroidManifest.xml:4:5-77
+11-->D:\Drink it\mobile\src\main\AndroidManifest.xml:4:22-74
+12    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+12-->D:\Drink it\mobile\src\main\AndroidManifest.xml:5:5-79
+12-->D:\Drink it\mobile\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+13-->D:\Drink it\mobile\src\main\AndroidManifest.xml:6:5-74
+13-->D:\Drink it\mobile\src\main\AndroidManifest.xml:6:22-71
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->D:\Drink it\mobile\src\main\AndroidManifest.xml:7:5-81
+14-->D:\Drink it\mobile\src\main\AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->D:\Drink it\mobile\src\main\AndroidManifest.xml:8:5-68
+15-->D:\Drink it\mobile\src\main\AndroidManifest.xml:8:22-65
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->D:\Drink it\mobile\src\main\AndroidManifest.xml:9:5-66
+16-->D:\Drink it\mobile\src\main\AndroidManifest.xml:9:22-63
+17
+18    <permission
+18-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.main.waterreminder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.main.waterreminder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->D:\Drink it\mobile\src\main\AndroidManifest.xml:11:5-63:19
+25        android:allowBackup="true"
+25-->D:\Drink it\mobile\src\main\AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/ic_launcher"
+28-->D:\Drink it\mobile\src\main\AndroidManifest.xml:13:9-43
+29        android:label="@string/app_name"
+29-->D:\Drink it\mobile\src\main\AndroidManifest.xml:14:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->D:\Drink it\mobile\src\main\AndroidManifest.xml:15:9-54
+31        android:supportsRtl="true"
+31-->D:\Drink it\mobile\src\main\AndroidManifest.xml:16:9-35
+32        android:theme="@style/Theme.WaterReminder" >
+32-->D:\Drink it\mobile\src\main\AndroidManifest.xml:17:9-51
+33        <activity
+33-->D:\Drink it\mobile\src\main\AndroidManifest.xml:19:9-29:20
+34            android:name="com.example.waterreminder.presentation.MainActivity"
+34-->D:\Drink it\mobile\src\main\AndroidManifest.xml:20:13-54
+35            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+35-->D:\Drink it\mobile\src\main\AndroidManifest.xml:22:13-87
+36            android:exported="true"
+36-->D:\Drink it\mobile\src\main\AndroidManifest.xml:21:13-36
+37            android:theme="@style/Theme.WaterReminder"
+37-->D:\Drink it\mobile\src\main\AndroidManifest.xml:24:13-55
+38            android:windowSoftInputMode="adjustResize" >
+38-->D:\Drink it\mobile\src\main\AndroidManifest.xml:23:13-55
+39            <intent-filter>
+39-->D:\Drink it\mobile\src\main\AndroidManifest.xml:25:13-28:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\Drink it\mobile\src\main\AndroidManifest.xml:26:17-69
+40-->D:\Drink it\mobile\src\main\AndroidManifest.xml:26:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->D:\Drink it\mobile\src\main\AndroidManifest.xml:27:17-77
+42-->D:\Drink it\mobile\src\main\AndroidManifest.xml:27:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <receiver
+46-->D:\Drink it\mobile\src\main\AndroidManifest.xml:31:9-33:40
+47            android:name="com.example.waterreminder.receiver.WaterReminderReceiver"
+47-->D:\Drink it\mobile\src\main\AndroidManifest.xml:32:13-59
+48            android:exported="false" />
+48-->D:\Drink it\mobile\src\main\AndroidManifest.xml:33:13-37
+49        <receiver
+49-->D:\Drink it\mobile\src\main\AndroidManifest.xml:35:9-37:40
+50            android:name="com.example.waterreminder.receiver.WaterActionReceiver"
+50-->D:\Drink it\mobile\src\main\AndroidManifest.xml:36:13-57
+51            android:exported="false" />
+51-->D:\Drink it\mobile\src\main\AndroidManifest.xml:37:13-37
+52        <receiver
+52-->D:\Drink it\mobile\src\main\AndroidManifest.xml:39:9-48:20
+53            android:name="com.example.waterreminder.receiver.BootReceiver"
+53-->D:\Drink it\mobile\src\main\AndroidManifest.xml:40:13-50
+54            android:exported="true" >
+54-->D:\Drink it\mobile\src\main\AndroidManifest.xml:41:13-36
+55            <intent-filter>
+55-->D:\Drink it\mobile\src\main\AndroidManifest.xml:42:13-47:29
+56                <action android:name="android.intent.action.BOOT_COMPLETED" />
+56-->D:\Drink it\mobile\src\main\AndroidManifest.xml:43:17-79
+56-->D:\Drink it\mobile\src\main\AndroidManifest.xml:43:25-76
+57                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+57-->D:\Drink it\mobile\src\main\AndroidManifest.xml:44:17-86
+57-->D:\Drink it\mobile\src\main\AndroidManifest.xml:44:25-83
+58                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+58-->D:\Drink it\mobile\src\main\AndroidManifest.xml:45:17-84
+58-->D:\Drink it\mobile\src\main\AndroidManifest.xml:45:25-81
+59                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+59-->D:\Drink it\mobile\src\main\AndroidManifest.xml:46:17-82
+59-->D:\Drink it\mobile\src\main\AndroidManifest.xml:46:25-79
+60            </intent-filter>
+61        </receiver>
+62
+63        <!-- Phone Wearable Data Layer Listener Service -->
+64        <service
+64-->D:\Drink it\mobile\src\main\AndroidManifest.xml:51:9-61:19
+65            android:name="com.example.waterreminder.sync.WearDataListenerService"
+65-->D:\Drink it\mobile\src\main\AndroidManifest.xml:52:13-57
+66            android:exported="true" >
+66-->D:\Drink it\mobile\src\main\AndroidManifest.xml:53:13-36
+67            <intent-filter>
+67-->D:\Drink it\mobile\src\main\AndroidManifest.xml:54:13-60:29
+68                <action android:name="com.google.android.gms.wearable.DATA_CHANGED" />
+68-->D:\Drink it\mobile\src\main\AndroidManifest.xml:55:17-87
+68-->D:\Drink it\mobile\src\main\AndroidManifest.xml:55:25-84
+69
+70                <data
+70-->D:\Drink it\mobile\src\main\AndroidManifest.xml:56:17-59:45
+71                    android:host="*"
+71-->D:\Drink it\mobile\src\main\AndroidManifest.xml:57:21-37
+72                    android:pathPrefix="/water_data"
+72-->D:\Drink it\mobile\src\main\AndroidManifest.xml:58:21-53
+73                    android:scheme="wear" />
+73-->D:\Drink it\mobile\src\main\AndroidManifest.xml:59:21-42
+74            </intent-filter>
+75        </service>
+76
+77        <activity
+77-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\54d81525fdb24d266cf4c9b429d4d84e\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+78            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+78-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\54d81525fdb24d266cf4c9b429d4d84e\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\54d81525fdb24d266cf4c9b429d4d84e\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\54d81525fdb24d266cf4c9b429d4d84e\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+81
+82        <meta-data
+82-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\004a1b3293425453e437d3341544a0c6\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+83            android:name="com.google.android.gms.version"
+83-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\004a1b3293425453e437d3341544a0c6\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+84            android:value="@integer/google_play_services_version" />
+84-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\004a1b3293425453e437d3341544a0c6\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+85
+86        <uses-library
+86-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+87            android:name="androidx.window.extensions"
+87-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+88            android:required="false" />
+88-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+89        <uses-library
+89-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+90            android:name="androidx.window.sidecar"
+90-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+91            android:required="false" />
+91-->[androidx.window:window:1.5.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\771e69edd64ed11d004ad9e99587253a\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+92
+93        <provider
+93-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+94            android:name="androidx.startup.InitializationProvider"
+94-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+95            android:authorities="com.main.waterreminder.androidx-startup"
+95-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+96            android:exported="false" >
+96-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+97            <meta-data
+97-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+98-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+99                android:value="androidx.startup" />
+99-->[androidx.emoji2:emoji2:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\cc81a847213b65d16dee0c76bf316970\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+100            <meta-data
+100-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\9a853ff1e0353de8091af27002c52457\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+101-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\9a853ff1e0353de8091af27002c52457\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+102                android:value="androidx.startup" />
+102-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\9a853ff1e0353de8091af27002c52457\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+103            <meta-data
+103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+105                android:value="androidx.startup" />
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+106        </provider>
+107
+108        <receiver
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+109            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+110            android:directBootAware="false"
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+111            android:enabled="true"
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+112            android:exported="true"
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+113            android:permission="android.permission.DUMP" >
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+115                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+116            </intent-filter>
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+118                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+119            </intent-filter>
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+121                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+122            </intent-filter>
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+124                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\7b7edd7637fa9967f63c98ef84c3face\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+125            </intent-filter>
+126        </receiver>
+127    </application>
+128
+129</manifest>
