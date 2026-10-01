@@ -34,11 +34,11 @@ com.example.waterreminder.mobile-lifecycle-viewmodel-32 C:\Users\parvs\.gradle\c
 com.example.waterreminder.mobile-ui-33 C:\Users\parvs\.gradle\caches\9.6.1\transforms\ec9fcf6a7c097ae337df375618042c98\transformed\ui\res
 com.example.waterreminder.mobile-fragment-ktx-1.8.6-34 C:\Users\parvs\.gradle\caches\9.6.1\transforms\f17da7c26629ee4cfab231c02d7c640f\transformed\fragment-ktx-1.8.6\res
 com.example.waterreminder.mobile-foundation-35 C:\Users\parvs\.gradle\caches\9.6.1\transforms\f4ce794c0715b604d93ceb1591aec710\transformed\foundation\res
-com.example.waterreminder.mobile-pngs-36 D:\Drink it\mobile\build\generated\res\pngs\release
-com.example.waterreminder.mobile-updated_navigation_xml-37 D:\Drink it\mobile\build\generated\updated_navigation_xml\release
-com.example.waterreminder.mobile-packageReleaseResources-38 D:\Drink it\mobile\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.example.waterreminder.mobile-packageReleaseResources-39 D:\Drink it\mobile\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.example.waterreminder.mobile-merged-not-compiled-resources-40 D:\Drink it\mobile\build\intermediates\merged-not-compiled-resources\release
-com.example.waterreminder.mobile-release-41 D:\Drink it\mobile\build\intermediates\merged_res\release\mergeReleaseResources
-com.example.waterreminder.mobile-main-42 D:\Drink it\mobile\src\main\res
-com.example.waterreminder.mobile-release-43 D:\Drink it\mobile\src\release\res
+com.example.waterreminder.mobile-pngs-36 D:\github\DrinkIt\mobile\build\generated\res\pngs\release
+com.example.waterreminder.mobile-updated_navigation_xml-37 D:\github\DrinkIt\mobile\build\generated\updated_navigation_xml\release
+com.example.waterreminder.mobile-packageReleaseResources-38 D:\github\DrinkIt\mobile\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.waterreminder.mobile-packageReleaseResources-39 D:\github\DrinkIt\mobile\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.waterreminder.mobile-merged-not-compiled-resources-40 D:\github\DrinkIt\mobile\build\intermediates\merged-not-compiled-resources\release
+com.example.waterreminder.mobile-release-41 D:\github\DrinkIt\mobile\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.waterreminder.mobile-main-42 D:\github\DrinkIt\mobile\src\main\res
+com.example.waterreminder.mobile-release-43 D:\github\DrinkIt\mobile\src\release\res

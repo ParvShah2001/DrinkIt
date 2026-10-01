@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is D:\Drink it\mobile\build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.0.1
+# The proguard configuration file for the following section is D:\github\DrinkIt\mobile\build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.0.1
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -89,8 +89,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from D:\Drink it\mobile\build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.0.1
-# The proguard configuration file for the following section is D:\Drink it\mobile\proguard-rules.pro
+# End of content from D:\github\DrinkIt\mobile\build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.0.1
+# The proguard configuration file for the following section is D:\github\DrinkIt\mobile\proguard-rules.pro
 # Keep Mobile components & receivers
 -keep class com.example.waterreminder.receiver.** { *; }
 -keep class com.example.waterreminder.reminder.** { *; }
@@ -100,7 +100,7 @@
 # Keep Compose rules
 -keepclassmembers class * extends androidx.compose.runtime.State { *; }
 
-# End of content from D:\Drink it\mobile\proguard-rules.pro
+# End of content from D:\github\DrinkIt\mobile\proguard-rules.pro
 # The proguard configuration file for the following section is C:\Users\parvs\.gradle\caches\9.6.1\transforms\108ae111893021614cbbacb8f98dd71c\transformed\play-services-wearable-19.0.0\proguard.txt
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep

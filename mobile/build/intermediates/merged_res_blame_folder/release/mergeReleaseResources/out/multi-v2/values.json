@@ -23,23 +23,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Drink it\\mobile\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "46",
-                        "endOffsets": "58"
-                    },
-                    "to": {
-                        "startLines": "208",
-                        "startColumns": "4",
-                        "startOffsets": "10576",
-                        "endColumns": "46",
-                        "endOffsets": "10618"
-                    }
-                },
-                {
                     "source": "C:\\Users\\parvs\\.gradle\\caches\\9.6.1\\transforms\\44a13e4af60bf899d6c444d7c781bbe9\\transformed\\core-viewtree-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -105,6 +88,40 @@
                         "startOffsets": "7707",
                         "endColumns": "65",
                         "endOffsets": "7768"
+                    }
+                },
+                {
+                    "source": "D:\\github\\DrinkIt\\mobile\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "90",
+                        "endOffsets": "142"
+                    },
+                    "to": {
+                        "startLines": "352",
+                        "startColumns": "4",
+                        "startOffsets": "21699",
+                        "endColumns": "89",
+                        "endOffsets": "21784"
+                    }
+                },
+                {
+                    "source": "D:\\github\\DrinkIt\\mobile\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "87",
+                        "startColumns": "4",
+                        "startOffsets": "3411",
+                        "endColumns": "56",
+                        "endOffsets": "3463"
                     }
                 },
                 {
@@ -231,23 +248,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Drink it\\mobile\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "90",
-                        "endOffsets": "142"
-                    },
-                    "to": {
-                        "startLines": "352",
-                        "startColumns": "4",
-                        "startOffsets": "21699",
-                        "endColumns": "89",
-                        "endOffsets": "21784"
-                    }
-                },
-                {
                     "source": "C:\\Users\\parvs\\.gradle\\caches\\9.6.1\\transforms\\b41b41cb432b16a68a6d49dfeb80c5a9\\transformed\\activity-1.13.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -262,23 +262,6 @@
                         "startOffsets": "8113,9861",
                         "endColumns": "41,59",
                         "endOffsets": "8150,9916"
-                    }
-                },
-                {
-                    "source": "D:\\Drink it\\mobile\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
-                    },
-                    "to": {
-                        "startLines": "87",
-                        "startColumns": "4",
-                        "startOffsets": "3411",
-                        "endColumns": "56",
-                        "endOffsets": "3463"
                     }
                 },
                 {
@@ -315,6 +298,23 @@
                         "startOffsets": "9757",
                         "endColumns": "42",
                         "endOffsets": "9795"
+                    }
+                },
+                {
+                    "source": "D:\\github\\DrinkIt\\mobile\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "208",
+                        "startColumns": "4",
+                        "startOffsets": "10576",
+                        "endColumns": "46",
+                        "endOffsets": "10618"
                     }
                 },
                 {

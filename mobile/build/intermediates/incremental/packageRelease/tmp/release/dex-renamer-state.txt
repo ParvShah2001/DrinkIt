@@ -1,4 +1,4 @@
-#Sun Aug 30 16:37:00 IST 2026
-base.0=D\:\\Drink it\\mobile\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Thu Oct 01 19:37:23 IST 2026
+base.0=D\:\\github\\DrinkIt\\mobile\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

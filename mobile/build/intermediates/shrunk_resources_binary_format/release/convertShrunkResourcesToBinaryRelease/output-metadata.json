@@ -11,8 +11,8 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 103,
-      "versionName": "10.3",
+      "versionCode": 102,
+      "versionName": "10.2",
       "outputFile": "shrunk-resources-binary-format-release.ap_"
     }
   ],

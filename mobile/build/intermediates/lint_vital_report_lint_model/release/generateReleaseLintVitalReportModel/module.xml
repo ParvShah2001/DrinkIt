@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="D:\Drink it\mobile"
+    dir="D:\github\DrinkIt\mobile"
     name=":mobile"
     type="APP"
     maven="Water Reminder:mobile:unspecified"
