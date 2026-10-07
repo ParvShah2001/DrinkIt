@@ -11,7 +11,7 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "outputFile": "../../../../../../app/release/mobile-release.aab"
+      "outputFile": "../../../../outputs/bundle/release/mobile-release.aab"
     }
   ],
   "elementType": "File"

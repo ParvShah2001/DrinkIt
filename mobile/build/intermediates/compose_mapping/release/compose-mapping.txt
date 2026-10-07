@@ -1886,8 +1886,8 @@ ComposeStackTrace -> $$compose:
   1:1:kotlin.Unit com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt.lambda_788888009$lambda$0(androidx.compose.runtime.Composer,int):495:495 -> m$788888009
   1:1:kotlin.Unit com.example.waterreminder.presentation.ui.ComposableSingletons$WaterReminderMobileAppKt.lambda_1550769320$lambda$0(androidx.compose.runtime.Composer,int):501:501 -> m$1550769320
   1:1:void com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp(androidx.compose.runtime.Composer,int):34:34 -> m$167037812
-  1:1:void com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp(androidx.compose.runtime.Composer,int):490:490 -> m$-1379716649
-  1:1:void com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp(androidx.compose.runtime.Composer,int):526:526 -> m$-1378275800
+  1:1:void com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp(androidx.compose.runtime.Composer,int):490:490 -> m$-1379729545
+  1:1:void com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp(androidx.compose.runtime.Composer,int):526:526 -> m$-1378288696
   1:1:kotlin.Unit com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp$lambda$29$0$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):119:119 -> m$-1850148765
   1:1:kotlin.Unit com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp$lambda$29$1$0$0$0$0$1$0(int,androidx.compose.runtime.Composer,int):200:200 -> m$-575535756
   1:1:kotlin.Unit com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt.WaterReminderMobileApp$lambda$29$1$0$0(androidx.compose.runtime.State,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,int,androidx.compose.foundation.layout.ColumnScope,androidx.compose.runtime.Composer,int):164:164 -> m$-777976479

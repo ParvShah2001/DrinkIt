@@ -6703,6 +6703,7 @@ androidx.compose.material3.TopAppBarColors:
     public static final int $stable
     private void <init>(long,long,long,long,long)
     public synthetic void <init>(long,long,long,long,long,kotlin.jvm.internal.DefaultConstructorMarker)
+    public static synthetic androidx.compose.material3.TopAppBarColors copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object)
     public final long getContainerColor-0d7_KjU()
     public final long getScrolledContainerColor-0d7_KjU()
 androidx.compose.material3.TopAppBarDefaults:
@@ -6715,6 +6716,7 @@ androidx.compose.material3.TopAppBarDefaults:
     private static final float MediumFlexibleAppBarWithSubtitleExpandedHeight
     private static final float MediumFlexibleAppBarWithoutSubtitleExpandedHeight
     public final androidx.compose.material3.TopAppBarColors centerAlignedTopAppBarColors(androidx.compose.runtime.Composer,int)
+    public final androidx.compose.material3.TopAppBarColors centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int)
     public final synthetic androidx.compose.material3.TopAppBarScrollBehavior enterAlwaysScrollBehavior(androidx.compose.material3.TopAppBarState,kotlin.jvm.functions.Function0,androidx.compose.animation.core.AnimationSpec,androidx.compose.animation.core.DecayAnimationSpec,androidx.compose.runtime.Composer,int,int)
     public final androidx.compose.material3.TopAppBarScrollBehavior enterAlwaysScrollBehavior(androidx.compose.material3.TopAppBarState,kotlin.jvm.functions.Function0,androidx.compose.animation.core.AnimationSpec,androidx.compose.animation.core.DecayAnimationSpec,boolean,androidx.compose.runtime.Composer,int,int)
     private static final boolean enterAlwaysScrollBehavior$lambda$5$lambda$4()
@@ -6735,7 +6737,6 @@ androidx.compose.material3.TopAppBarDefaults:
     public final androidx.compose.material3.TopAppBarColors mediumTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int)
     public final androidx.compose.material3.TopAppBarScrollBehavior pinnedScrollBehavior(androidx.compose.material3.TopAppBarState,kotlin.jvm.functions.Function0,androidx.compose.runtime.Composer,int,int)
     private static final boolean pinnedScrollBehavior$lambda$2$lambda$1()
-    public final androidx.compose.material3.TopAppBarColors topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int)
     public final synthetic androidx.compose.material3.TopAppBarColors topAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int)
 androidx.compose.material3.TopAppBarMeasurePolicy:
     public final float getHeight-D9Ej5fM()
@@ -35627,10 +35628,10 @@ androidx.compose.material3.TopAppBarColors:
 androidx.compose.material3.TopAppBarDefaults:
     public static final int $stable
     public static final androidx.compose.material3.TopAppBarDefaults INSTANCE
-    public static androidx.compose.material3.TopAppBarColors centerAlignedTopAppBarColors-zjMxDiM()
     public static float getTopAppBarExpandedHeight-D9Ej5fM()
     public static androidx.compose.foundation.layout.WindowInsets getWindowInsets()
     public static androidx.compose.material3.TopAppBarColors topAppBarColors()
+    public static androidx.compose.material3.TopAppBarColors topAppBarColors-5tl4gsc()
 androidx.compose.material3.TopAppBarMeasurePolicy$$InternalSyntheticLambda$6$a89eae063e0b3037ad0812a6c5f494e8d32f8d9d92c4350b33058b44e4bf20e9$0:
     public final synthetic int f$7
     public final synthetic int f$8

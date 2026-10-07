@@ -37,10 +37,10 @@ com.example.waterreminder.mobile-lifecycle-viewmodel-35 C:\Users\parvs\.gradle\c
 com.example.waterreminder.mobile-ui-36 C:\Users\parvs\.gradle\caches\9.6.1\transforms\ec9fcf6a7c097ae337df375618042c98\transformed\ui\res
 com.example.waterreminder.mobile-fragment-ktx-1.8.6-37 C:\Users\parvs\.gradle\caches\9.6.1\transforms\f17da7c26629ee4cfab231c02d7c640f\transformed\fragment-ktx-1.8.6\res
 com.example.waterreminder.mobile-foundation-38 C:\Users\parvs\.gradle\caches\9.6.1\transforms\f4ce794c0715b604d93ceb1591aec710\transformed\foundation\res
-com.example.waterreminder.mobile-pngs-39 D:\Drink it\mobile\build\generated\res\pngs\debug
-com.example.waterreminder.mobile-updated_navigation_xml-40 D:\Drink it\mobile\build\generated\updated_navigation_xml\debug
-com.example.waterreminder.mobile-packageDebugResources-41 D:\Drink it\mobile\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.waterreminder.mobile-packageDebugResources-42 D:\Drink it\mobile\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.waterreminder.mobile-debug-43 D:\Drink it\mobile\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.waterreminder.mobile-debug-44 D:\Drink it\mobile\src\debug\res
-com.example.waterreminder.mobile-main-45 D:\Drink it\mobile\src\main\res
+com.example.waterreminder.mobile-pngs-39 D:\github\DrinkIt\mobile\build\generated\res\pngs\debug
+com.example.waterreminder.mobile-updated_navigation_xml-40 D:\github\DrinkIt\mobile\build\generated\updated_navigation_xml\debug
+com.example.waterreminder.mobile-packageDebugResources-41 D:\github\DrinkIt\mobile\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.waterreminder.mobile-packageDebugResources-42 D:\github\DrinkIt\mobile\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.waterreminder.mobile-debug-43 D:\github\DrinkIt\mobile\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.waterreminder.mobile-debug-44 D:\github\DrinkIt\mobile\src\debug\res
+com.example.waterreminder.mobile-main-45 D:\github\DrinkIt\mobile\src\main\res

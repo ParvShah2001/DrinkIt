@@ -8,6 +8,12 @@ import com.example.waterreminder.data.WaterRepository
 import com.example.waterreminder.reminder.NotificationHelper
 import com.example.waterreminder.reminder.ReminderScheduler
 
+/**
+ * BroadcastReceiver triggered by [AlarmManager] when a hydration reminder alarm fires.
+ *
+ * Verifies that reminders are still enabled, displays a notification with quick action buttons,
+ * and schedules the subsequent interval alarm.
+ */
 class WaterReminderReceiver : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent?) {

@@ -3,8 +3,8 @@
 # min_api: 26
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.2"}
-# pg_map_id: 9338a5772fb610047a9cffe7bf36127d155fa1305aaec32b01660c3e850429ce
-# pg_map_hash: SHA-256 9338a5772fb610047a9cffe7bf36127d155fa1305aaec32b01660c3e850429ce
+# pg_map_id: 49291e163c67a21d74d4422bf4a2f163b844a96d18525879bd90f98e3339cea9
+# pg_map_hash: SHA-256 49291e163c67a21d74d4422bf4a2f163b844a96d18525879bd90f98e3339cea9
 _COROUTINE.ArtificialStackFrames -> R8$$REMOVED$$CLASS$$0:
 # {"id":"sourceFile","fileName":"CoroutineDebugging.kt"}
 _COROUTINE.CoroutineDebuggingKt -> R8$$REMOVED$$CLASS$$1:
@@ -36744,41 +36744,41 @@ androidx.compose.material3.ProgressIndicatorKt -> a0.s1:
     float CircularIndicatorDiameter -> a
     1:4:void <clinit>():1042:1042 -> <clinit>
     5:7:void <clinit>():1061:1061 -> <clinit>
-    3:63:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):527:527 -> a
+    7:91:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):527:527 -> a
       # {"id":"com.android.tools.r8.residualsignature","signature":"(La5/a;Lr0/m;JFJIFLd0/m;I)V"}
-    64:71:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
-    72:73:int androidx.compose.material3.ProgressIndicatorDefaults.getCircularDeterminateStrokeCap-KaPHkGw():848:848 -> a
-    72:73:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):525 -> a
-    74:77:float androidx.compose.material3.ProgressIndicatorDefaults.getCircularIndicatorTrackGapSize-D9Ej5fM():862:862 -> a
-    74:77:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):526 -> a
-    78:87:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
-    88:91:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1150:1150 -> a
-    92:97:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1151:1151 -> a
-    98:102:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):528:528 -> a
-    103:105:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1153:1153 -> a
-    106:108:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):528:528 -> a
-    109:110:androidx.compose.runtime.ProvidableCompositionLocal androidx.compose.ui.platform.CompositionLocalsKt.getLocalDensity():116:116 -> a
-    109:110:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):529 -> a
-    111:114:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1156:1156 -> a
-    115:129:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):529:529 -> a
-    130:133:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
-    134:141:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1158:1158 -> a
-    142:146:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
-    147:149:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1161:1161 -> a
-    150:153:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
-    154:164:androidx.compose.ui.Modifier androidx.compose.ui.semantics.SemanticsModifierKt.semantics(androidx.compose.ui.Modifier,boolean,kotlin.jvm.functions.Function1):109:109 -> a
-    154:164:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532 -> a
-    165:170:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):537:537 -> a
-    171:179:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
-    180:187:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1164:1164 -> a
-    188:197:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
-    198:200:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1167:1167 -> a
-    201:202:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
-    203:210:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):530:530 -> a
-    211:217:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
-    218:237:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):558:558 -> a
-    238:240:void androidx.compose.runtime.RecomposeScopeImpl.updateScope(kotlin.jvm.functions.Function2):246:246 -> a
-    238:240:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):558 -> a
+    92:99:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
+    100:101:int androidx.compose.material3.ProgressIndicatorDefaults.getCircularDeterminateStrokeCap-KaPHkGw():848:848 -> a
+    100:101:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):525 -> a
+    102:103:float androidx.compose.material3.ProgressIndicatorDefaults.getCircularIndicatorTrackGapSize-D9Ej5fM():862:862 -> a
+    102:103:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):526 -> a
+    104:113:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
+    114:117:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1150:1150 -> a
+    118:123:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1151:1151 -> a
+    124:128:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):528:528 -> a
+    129:131:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1153:1153 -> a
+    132:134:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):528:528 -> a
+    135:136:androidx.compose.runtime.ProvidableCompositionLocal androidx.compose.ui.platform.CompositionLocalsKt.getLocalDensity():116:116 -> a
+    135:136:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):529 -> a
+    137:140:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1156:1156 -> a
+    141:157:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):529:529 -> a
+    158:161:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
+    162:169:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1158:1158 -> a
+    170:174:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
+    175:177:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1161:1161 -> a
+    178:181:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532:532 -> a
+    182:192:androidx.compose.ui.Modifier androidx.compose.ui.semantics.SemanticsModifierKt.semantics(androidx.compose.ui.Modifier,boolean,kotlin.jvm.functions.Function1):109:109 -> a
+    182:192:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):532 -> a
+    193:198:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):537:537 -> a
+    199:257:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
+    258:269:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1164:1164 -> a
+    270:278:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
+    279:281:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):1167:1167 -> a
+    282:284:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):538:538 -> a
+    285:292:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):530:530 -> a
+    293:299:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):517:517 -> a
+    300:321:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):558:558 -> a
+    322:324:void androidx.compose.runtime.RecomposeScopeImpl.updateScope(kotlin.jvm.functions.Function2):246:246 -> a
+    322:324:void CircularProgressIndicator-IyT6zlY(kotlin.jvm.functions.Function0,androidx.compose.ui.Modifier,long,float,long,int,float,androidx.compose.runtime.Composer,int,int):558 -> a
     1:5:float androidx.compose.ui.graphics.drawscope.Stroke.getWidth():961:961 -> b
     1:5:void drawCircularIndicator-42QJj7c(androidx.compose.ui.graphics.drawscope.DrawScope,float,float,long,androidx.compose.ui.graphics.drawscope.Stroke):757 -> b
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
@@ -36822,17 +36822,17 @@ androidx.compose.material3.ProgressIndicatorKt$$ExternalSyntheticLambda0 -> a0.p
     41:53:kotlin.Unit androidx.compose.foundation.selection.ToggleableNode._onClick$lambda$0(androidx.compose.foundation.selection.ToggleableNode):309:309 -> a
     41:53:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0 -> a
     54:60:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0:0 -> a
-    61:62:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):11:11 -> a
+    61:62:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):21:21 -> a
     61:62:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0 -> a
     63:66:com.google.android.gms.wearable.DataClient com.google.android.gms.wearable.Wearable.getDataClient(android.content.Context):4:4 -> a
-    63:66:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):11 -> a
+    63:66:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):21 -> a
     63:66:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0 -> a
     67:75:void com.google.android.gms.wearable.DataClient.<init>(android.content.Context,com.google.android.gms.common.api.GoogleApi$Settings):2:2 -> a
     67:75:void com.google.android.gms.wearable.internal.zzdd.<init>(android.content.Context,com.google.android.gms.common.api.GoogleApi$Settings):2 -> a
     67:75:com.google.android.gms.wearable.DataClient com.google.android.gms.wearable.Wearable.getDataClient(android.content.Context):4 -> a
-    67:75:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):11 -> a
+    67:75:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):21 -> a
     67:75:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0 -> a
-    76:84:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):13:13 -> a
+    76:84:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.dataClient_delegate$lambda$0(com.example.waterreminder.sync.WearableDataSync):23:23 -> a
     76:84:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0 -> a
     85:89:java.lang.Object a0.ProgressIndicatorKt$$ExternalSyntheticLambda0.invoke():0:0 -> a
     90:91:kotlin.Unit androidx.compose.runtime.snapshots.SnapshotStateObserver.sendNotifications$lambda$0(androidx.compose.runtime.snapshots.SnapshotStateObserver):85:85 -> a
@@ -140392,51 +140392,51 @@ androidx.window.reflection.Predicate2 -> androidx.window.reflection.Predicate2:
 com.example.waterreminder.data.WaterRepository -> com.example.waterreminder.data.WaterRepository:
 # {"id":"sourceFile","fileName":"WaterRepository.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    4:6:void <init>(android.content.Context):7:7 -> <init>
-    7:18:void <init>(android.content.Context):10:10 -> <init>
-    19:22:void <init>(android.content.Context):31:31 -> <init>
-    1:3:int addWater(int):52:52 -> addWater
-    4:11:int addWater(int):53:53 -> addWater
-    12:27:int addWater(int):54:54 -> addWater
-    1:9:void checkAndResetDailyIntake():35:35 -> checkAndResetDailyIntake
-    10:20:void checkAndResetDailyIntake():36:36 -> checkAndResetDailyIntake
-    21:26:void checkAndResetDailyIntake():39:39 -> checkAndResetDailyIntake
-    27:33:void checkAndResetDailyIntake():40:40 -> checkAndResetDailyIntake
-    34:37:void checkAndResetDailyIntake():41:41 -> checkAndResetDailyIntake
-    38:41:void checkAndResetDailyIntake():42:42 -> checkAndResetDailyIntake
-    1:11:int decreaseGoal():90:90 -> decreaseGoal
-    12:15:int decreaseGoal():91:91 -> decreaseGoal
-    1:11:int decreaseInterval():119:119 -> decreaseInterval
-    12:15:int decreaseInterval():120:120 -> decreaseInterval
-    1:3:int getCurrentIntake():47:47 -> getCurrentIntake
-    4:13:int getCurrentIntake():48:48 -> getCurrentIntake
-    1:19:int getDailyGoal():75:75 -> getDailyGoal
-    1:19:int getReminderIntervalMinutes():104:104 -> getReminderIntervalMinutes
-    1:11:int increaseGoal():84:84 -> increaseGoal
-    12:15:int increaseGoal():85:85 -> increaseGoal
-    1:11:int increaseInterval():113:113 -> increaseInterval
-    12:15:int increaseInterval():114:114 -> increaseInterval
-    1:10:boolean isReminderEnabled():96:96 -> isReminderEnabled
-    1:9:void resetIntake():67:67 -> resetIntake
-    10:15:void resetIntake():68:68 -> resetIntake
-    16:22:void resetIntake():69:69 -> resetIntake
-    23:28:void resetIntake():70:70 -> resetIntake
-    29:32:void resetIntake():71:71 -> resetIntake
-    1:9:void setCurrentIntake(int):59:59 -> setCurrentIntake
-    10:18:void setCurrentIntake(int):60:60 -> setCurrentIntake
-    19:24:void setCurrentIntake(int):61:61 -> setCurrentIntake
-    25:30:void setCurrentIntake(int):62:62 -> setCurrentIntake
-    31:34:void setCurrentIntake(int):63:63 -> setCurrentIntake
-    5:8:void setDailyGoal(int):79:79 -> setDailyGoal
-    9:24:void setDailyGoal(int):80:80 -> setDailyGoal
-    1:16:void setReminderEnabled(boolean):100:100 -> setReminderEnabled
-    5:8:void setReminderIntervalMinutes(int):108:108 -> setReminderIntervalMinutes
-    9:24:void setReminderIntervalMinutes(int):109:109 -> setReminderIntervalMinutes
+    4:6:void <init>(android.content.Context):15:15 -> <init>
+    7:18:void <init>(android.content.Context):18:18 -> <init>
+    19:22:void <init>(android.content.Context):39:39 -> <init>
+    1:3:int addWater(int):60:60 -> addWater
+    4:11:int addWater(int):61:61 -> addWater
+    12:27:int addWater(int):62:62 -> addWater
+    1:9:void checkAndResetDailyIntake():43:43 -> checkAndResetDailyIntake
+    10:20:void checkAndResetDailyIntake():44:44 -> checkAndResetDailyIntake
+    21:26:void checkAndResetDailyIntake():47:47 -> checkAndResetDailyIntake
+    27:33:void checkAndResetDailyIntake():48:48 -> checkAndResetDailyIntake
+    34:37:void checkAndResetDailyIntake():49:49 -> checkAndResetDailyIntake
+    38:41:void checkAndResetDailyIntake():50:50 -> checkAndResetDailyIntake
+    1:11:int decreaseGoal():98:98 -> decreaseGoal
+    12:15:int decreaseGoal():99:99 -> decreaseGoal
+    1:11:int decreaseInterval():127:127 -> decreaseInterval
+    12:15:int decreaseInterval():128:128 -> decreaseInterval
+    1:3:int getCurrentIntake():55:55 -> getCurrentIntake
+    4:13:int getCurrentIntake():56:56 -> getCurrentIntake
+    1:19:int getDailyGoal():83:83 -> getDailyGoal
+    1:19:int getReminderIntervalMinutes():112:112 -> getReminderIntervalMinutes
+    1:11:int increaseGoal():92:92 -> increaseGoal
+    12:15:int increaseGoal():93:93 -> increaseGoal
+    1:11:int increaseInterval():121:121 -> increaseInterval
+    12:15:int increaseInterval():122:122 -> increaseInterval
+    1:10:boolean isReminderEnabled():104:104 -> isReminderEnabled
+    1:9:void resetIntake():75:75 -> resetIntake
+    10:15:void resetIntake():76:76 -> resetIntake
+    16:22:void resetIntake():77:77 -> resetIntake
+    23:28:void resetIntake():78:78 -> resetIntake
+    29:32:void resetIntake():79:79 -> resetIntake
+    1:9:void setCurrentIntake(int):67:67 -> setCurrentIntake
+    10:18:void setCurrentIntake(int):68:68 -> setCurrentIntake
+    19:24:void setCurrentIntake(int):69:69 -> setCurrentIntake
+    25:30:void setCurrentIntake(int):70:70 -> setCurrentIntake
+    31:34:void setCurrentIntake(int):71:71 -> setCurrentIntake
+    5:8:void setDailyGoal(int):87:87 -> setDailyGoal
+    9:24:void setDailyGoal(int):88:88 -> setDailyGoal
+    1:16:void setReminderEnabled(boolean):108:108 -> setReminderEnabled
+    5:8:void setReminderIntervalMinutes(int):116:116 -> setReminderIntervalMinutes
+    9:24:void setReminderIntervalMinutes(int):117:117 -> setReminderIntervalMinutes
 com.example.waterreminder.data.WaterRepository$Companion -> com.example.waterreminder.data.WaterRepository$Companion:
 # {"id":"sourceFile","fileName":"WaterRepository.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():12:12 -> <init>
+    5:5:void <init>():20:20 -> <init>
 com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt -> com.example.waterreminder.presentation.ComposableSingletons$MainActivityKt:
 # {"id":"sourceFile","fileName":"MainActivity.kt"}
     kotlin.jvm.functions.Function2 lambda$-368917966 -> lambda$-368917966
@@ -141543,16 +141543,16 @@ com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt -> com.exampl
     5:8:void WaterReminderMobileApp$lambda$21(androidx.compose.runtime.MutableState,int):47 -> WaterReminderMobileApp$lambda$21
     4:11:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51:51 -> WaterReminderMobileApp$lambda$22$0
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lr3/c;Ld0/j1;Ld0/j1;Ld0/j1;Ld0/j1;Ld0/m0;)Ld0/l0;"}
-    12:23:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.getDataClient():9:9 -> WaterReminderMobileApp$lambda$22$0
-    12:23:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):49 -> WaterReminderMobileApp$lambda$22$0
+    12:23:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.getDataClient():19:19 -> WaterReminderMobileApp$lambda$22$0
+    12:23:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):59 -> WaterReminderMobileApp$lambda$22$0
     12:23:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51 -> WaterReminderMobileApp$lambda$22$0
-    24:28:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):50:50 -> WaterReminderMobileApp$lambda$22$0
+    24:28:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):60:60 -> WaterReminderMobileApp$lambda$22$0
     24:28:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51 -> WaterReminderMobileApp$lambda$22$0
-    29:32:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):69:69 -> WaterReminderMobileApp$lambda$22$0
+    29:32:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):79:79 -> WaterReminderMobileApp$lambda$22$0
     29:32:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51 -> WaterReminderMobileApp$lambda$22$0
-    33:38:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):68:68 -> WaterReminderMobileApp$lambda$22$0
+    33:38:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):78:78 -> WaterReminderMobileApp$lambda$22$0
     33:38:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51 -> WaterReminderMobileApp$lambda$22$0
-    39:46:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):71:71 -> WaterReminderMobileApp$lambda$22$0
+    39:46:com.google.android.gms.wearable.DataClient$OnDataChangedListener com.example.waterreminder.sync.WearableDataSync.startListening(kotlin.jvm.functions.Function5):81:81 -> WaterReminderMobileApp$lambda$22$0
     39:46:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):51 -> WaterReminderMobileApp$lambda$22$0
     47:52:androidx.compose.runtime.DisposableEffectResult androidx.compose.runtime.DisposableEffectScope.onDispose(kotlin.jvm.functions.Function0):66:66 -> WaterReminderMobileApp$lambda$22$0
     47:52:androidx.compose.runtime.DisposableEffectResult WaterReminderMobileApp$lambda$22$0(com.example.waterreminder.sync.WearableDataSync,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.DisposableEffectScope):57 -> WaterReminderMobileApp$lambda$22$0
@@ -141575,112 +141575,101 @@ com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt -> com.exampl
     41:42:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):141 -> WaterReminderMobileApp$lambda$29$0
     43:44:long androidx.compose.ui.graphics.Color.access$getUnspecified$cp():113:113 -> WaterReminderMobileApp$lambda$29$0
     43:44:long androidx.compose.ui.graphics.Color$Companion.getUnspecified-0d7_KjU():290 -> WaterReminderMobileApp$lambda$29$0
-    43:44:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1566 -> WaterReminderMobileApp$lambda$29$0
+    43:44:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1462 -> WaterReminderMobileApp$lambda$29$0
     43:44:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     45:46:androidx.compose.runtime.ProvidableCompositionLocal androidx.compose.material3.ColorSchemeKt.getLocalColorScheme():1513:1513 -> WaterReminderMobileApp$lambda$29$0
     45:46:androidx.compose.material3.ColorScheme androidx.compose.material3.MaterialTheme.getColorScheme(androidx.compose.runtime.Composer,int):122 -> WaterReminderMobileApp$lambda$29$0
-    45:46:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    45:46:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     45:46:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     47:50:androidx.compose.material3.ColorScheme androidx.compose.material3.MaterialTheme.getColorScheme(androidx.compose.runtime.Composer,int):235:235 -> WaterReminderMobileApp$lambda$29$0
-    47:50:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    47:50:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     47:50:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     51:52:androidx.compose.material3.ColorScheme androidx.compose.material3.MaterialTheme.getColorScheme(androidx.compose.runtime.Composer,int):122:122 -> WaterReminderMobileApp$lambda$29$0
-    51:52:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    51:52:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     51:52:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     53:56:void androidx.compose.ui.layout.LayoutKt.Layout(kotlin.jvm.functions.Function2,androidx.compose.ui.Modifier,androidx.compose.ui.layout.MeasurePolicy,androidx.compose.runtime.Composer,int,int):92:92 -> WaterReminderMobileApp$lambda$29$0
     53:56:androidx.compose.material3.TopAppBarColors androidx.compose.material3.ColorScheme.getDefaultTopAppBarColorsCached$material3():100 -> WaterReminderMobileApp$lambda$29$0
     53:56:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1511 -> WaterReminderMobileApp$lambda$29$0
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(2)"]}
-    53:56:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    53:56:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     53:56:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     57:58:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1512:1512 -> WaterReminderMobileApp$lambda$29$0
-    57:58:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    57:58:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     57:58:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     59:60:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getContainerColor():26:26 -> WaterReminderMobileApp$lambda$29$0
     59:60:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1513 -> WaterReminderMobileApp$lambda$29$0
-    59:60:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    59:60:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     59:60:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     61:64:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1513:1513 -> WaterReminderMobileApp$lambda$29$0
-    61:64:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    61:64:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     61:64:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     65:66:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getOnScrollContainerColor():33:33 -> WaterReminderMobileApp$lambda$29$0
     65:66:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1514 -> WaterReminderMobileApp$lambda$29$0
-    65:66:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    65:66:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     65:66:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     67:70:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1514:1514 -> WaterReminderMobileApp$lambda$29$0
-    67:70:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    67:70:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     67:70:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     71:72:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getLeadingIconColor():31:31 -> WaterReminderMobileApp$lambda$29$0
     71:72:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1515 -> WaterReminderMobileApp$lambda$29$0
-    71:72:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    71:72:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     71:72:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     73:76:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1515:1515 -> WaterReminderMobileApp$lambda$29$0
-    73:76:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    73:76:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     73:76:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     77:78:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getTitleColor():36:36 -> WaterReminderMobileApp$lambda$29$0
     77:78:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1516 -> WaterReminderMobileApp$lambda$29$0
-    77:78:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    77:78:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     77:78:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     79:82:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1516:1516 -> WaterReminderMobileApp$lambda$29$0
-    79:82:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    79:82:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     79:82:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     83:84:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getTrailingIconColor():37:37 -> WaterReminderMobileApp$lambda$29$0
     83:84:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1517 -> WaterReminderMobileApp$lambda$29$0
-    83:84:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    83:84:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     83:84:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     85:88:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1517:1517 -> WaterReminderMobileApp$lambda$29$0
-    85:88:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    85:88:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     85:88:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     89:90:androidx.compose.material3.tokens.ColorSchemeKeyTokens androidx.compose.material3.tokens.AppBarTokens.getSubtitleColor():35:35 -> WaterReminderMobileApp$lambda$29$0
     89:90:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1518 -> WaterReminderMobileApp$lambda$29$0
-    89:90:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    89:90:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     89:90:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     91:94:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1518:1518 -> WaterReminderMobileApp$lambda$29$0
-    91:94:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    91:94:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     91:94:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     95:97:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1512:1512 -> WaterReminderMobileApp$lambda$29$0
-    95:97:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    95:97:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     95:97:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    98:100:void androidx.compose.ui.layout.LayoutKt.Layout(kotlin.jvm.functions.Function2,androidx.compose.ui.Modifier,androidx.compose.ui.layout.MeasurePolicy,androidx.compose.runtime.Composer,int,int):92:92 -> WaterReminderMobileApp$lambda$29$0
-    98:100:void androidx.compose.material3.ColorScheme.setDefaultTopAppBarColorsCached$material3(androidx.compose.material3.TopAppBarColors):100 -> WaterReminderMobileApp$lambda$29$0
-    98:100:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1520 -> WaterReminderMobileApp$lambda$29$0
-    98:100:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
-    98:100:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    101:109:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2024:2024 -> WaterReminderMobileApp$lambda$29$0
-    101:109:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
-    101:109:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    110:117:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2027:2027 -> WaterReminderMobileApp$lambda$29$0
-    110:117:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    110:117:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
-    110:117:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
+    98:108:void androidx.compose.ui.layout.LayoutKt.Layout(kotlin.jvm.functions.Function2,androidx.compose.ui.Modifier,androidx.compose.ui.layout.MeasurePolicy,androidx.compose.runtime.Composer,int,int):92:92 -> WaterReminderMobileApp$lambda$29$0
+    98:108:void androidx.compose.material3.ColorScheme.setDefaultTopAppBarColorsCached$material3(androidx.compose.material3.TopAppBarColors):100 -> WaterReminderMobileApp$lambda$29$0
+    98:108:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.getDefaultTopAppBarColors$material3(androidx.compose.material3.ColorScheme):1520 -> WaterReminderMobileApp$lambda$29$0
+    98:108:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
+    98:108:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
+    109:117:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2027:2027 -> WaterReminderMobileApp$lambda$29$0
+    109:117:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
+    109:117:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     118:125:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2028:2028 -> WaterReminderMobileApp$lambda$29$0
-    118:125:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    118:125:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    118:125:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     118:125:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     126:134:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2029:2029 -> WaterReminderMobileApp$lambda$29$0
-    126:134:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    126:134:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    126:134:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     126:134:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
     135:143:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2030:2030 -> WaterReminderMobileApp$lambda$29$0
-    135:143:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    135:143:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
+    135:143:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
     135:143:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    144:146:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2031:2031 -> WaterReminderMobileApp$lambda$29$0
-    144:146:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    144:146:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
-    144:146:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    147:161:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2026:2026 -> WaterReminderMobileApp$lambda$29$0
-    147:161:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ$default(androidx.compose.material3.TopAppBarColors,long,long,long,long,long,long,int,java.lang.Object):2018 -> WaterReminderMobileApp$lambda$29$0
-    147:161:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.centerAlignedTopAppBarColors-zjMxDiM(long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1571 -> WaterReminderMobileApp$lambda$29$0
-    147:161:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
-    162:165:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):116:116 -> WaterReminderMobileApp$lambda$29$0
-    166:168:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):115:115 -> WaterReminderMobileApp$lambda$29$0
-    169:171:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):144:144 -> WaterReminderMobileApp$lambda$29$0
+    144:152:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2031:2031 -> WaterReminderMobileApp$lambda$29$0
+    144:152:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
+    144:152:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
+    153:155:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2032:2032 -> WaterReminderMobileApp$lambda$29$0
+    153:155:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
+    153:155:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
+    156:167:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarColors.copy-tNS2XkQ(long,long,long,long,long,long):2026:2026 -> WaterReminderMobileApp$lambda$29$0
+    156:167:androidx.compose.material3.TopAppBarColors androidx.compose.material3.TopAppBarDefaults.topAppBarColors-5tl4gsc(long,long,long,long,long,long,androidx.compose.runtime.Composer,int,int):1468 -> WaterReminderMobileApp$lambda$29$0
+    156:167:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):140 -> WaterReminderMobileApp$lambda$29$0
+    168:171:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):116:116 -> WaterReminderMobileApp$lambda$29$0
+    172:174:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):115:115 -> WaterReminderMobileApp$lambda$29$0
+    175:177:kotlin.Unit WaterReminderMobileApp$lambda$29$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):144:144 -> WaterReminderMobileApp$lambda$29$0
     24:28:kotlin.Unit WaterReminderMobileApp$lambda$29$0$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):119:119 -> WaterReminderMobileApp$lambda$29$0$0
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lcom/example/waterreminder/reminder/NotificationHelper;Ld0/j1;Ld0/m;I)Lo4/j;"}
     29:35:kotlin.Unit WaterReminderMobileApp$lambda$29$0$0(com.example.waterreminder.reminder.NotificationHelper,androidx.compose.runtime.MutableState,androidx.compose.runtime.Composer,int):121:121 -> WaterReminderMobileApp$lambda$29$0$0
@@ -143600,169 +143589,169 @@ com.example.waterreminder.presentation.ui.WaterReminderMobileAppKt$WaterReminder
     5:8:void <init>(com.example.waterreminder.sync.WearableDataSync,com.google.android.gms.wearable.DataClient$OnDataChangedListener):66:66 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lr3/c;Lm4/c;)V"}
     1:10:void dispose():604:604 -> dispose
-    11:20:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.getDataClient():9:9 -> dispose
-    11:20:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):79 -> dispose
+    11:20:com.google.android.gms.wearable.DataClient com.example.waterreminder.sync.WearableDataSync.getDataClient():19:19 -> dispose
+    11:20:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):89 -> dispose
     11:20:void dispose():604 -> dispose
-    21:27:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):79:79 -> dispose
+    21:27:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):89:89 -> dispose
     21:27:void dispose():604 -> dispose
-    28:35:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):81:81 -> dispose
+    28:35:void com.example.waterreminder.sync.WearableDataSync.stopListening(com.google.android.gms.wearable.DataClient$OnDataChangedListener):91:91 -> dispose
     28:35:void dispose():604 -> dispose
 com.example.waterreminder.receiver.BootReceiver -> com.example.waterreminder.receiver.BootReceiver:
 # {"id":"sourceFile","fileName":"BootReceiver.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    1:4:void <init>():10:10 -> <init>
-    7:14:void onReceive(android.content.Context,android.content.Intent):13:13 -> onReceive
-    15:58:void onReceive(android.content.Context,android.content.Intent):14:14 -> onReceive
-    59:82:void onReceive(android.content.Context,android.content.Intent):19:19 -> onReceive
-    83:87:void onReceive(android.content.Context,android.content.Intent):20:20 -> onReceive
-    88:93:void onReceive(android.content.Context,android.content.Intent):21:21 -> onReceive
-    94:99:void onReceive(android.content.Context,android.content.Intent):22:22 -> onReceive
-    100:104:void onReceive(android.content.Context,android.content.Intent):23:23 -> onReceive
+    1:4:void <init>():17:17 -> <init>
+    7:14:void onReceive(android.content.Context,android.content.Intent):20:20 -> onReceive
+    15:58:void onReceive(android.content.Context,android.content.Intent):21:21 -> onReceive
+    59:82:void onReceive(android.content.Context,android.content.Intent):26:26 -> onReceive
+    83:87:void onReceive(android.content.Context,android.content.Intent):27:27 -> onReceive
+    88:93:void onReceive(android.content.Context,android.content.Intent):28:28 -> onReceive
+    94:99:void onReceive(android.content.Context,android.content.Intent):29:29 -> onReceive
+    100:104:void onReceive(android.content.Context,android.content.Intent):30:30 -> onReceive
 com.example.waterreminder.receiver.BootReceiver$Companion -> com.example.waterreminder.receiver.BootReceiver$Companion:
 # {"id":"sourceFile","fileName":"BootReceiver.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():28:28 -> <init>
+    5:5:void <init>():35:35 -> <init>
 com.example.waterreminder.receiver.WaterActionReceiver -> com.example.waterreminder.receiver.WaterActionReceiver:
 # {"id":"sourceFile","fileName":"WaterActionReceiver.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    1:4:void <init>():12:12 -> <init>
-    7:20:void onReceive(android.content.Context,android.content.Intent):15:15 -> onReceive
-    21:28:void onReceive(android.content.Context,android.content.Intent):16:16 -> onReceive
-    29:52:void onReceive(android.content.Context,android.content.Intent):17:17 -> onReceive
-    53:57:void onReceive(android.content.Context,android.content.Intent):19:19 -> onReceive
-    58:61:void onReceive(android.content.Context,android.content.Intent):20:20 -> onReceive
-    62:67:void onReceive(android.content.Context,android.content.Intent):22:22 -> onReceive
-    68:71:void onReceive(android.content.Context,android.content.Intent):23:23 -> onReceive
-    72:76:void onReceive(android.content.Context,android.content.Intent):26:26 -> onReceive
-    77:80:void onReceive(android.content.Context,android.content.Intent):29:29 -> onReceive
-    81:84:void onReceive(android.content.Context,android.content.Intent):30:30 -> onReceive
-    85:88:void onReceive(android.content.Context,android.content.Intent):31:31 -> onReceive
-    89:91:void onReceive(android.content.Context,android.content.Intent):27:27 -> onReceive
-    92:96:void onReceive(android.content.Context,android.content.Intent):35:35 -> onReceive
-    97:100:void onReceive(android.content.Context,android.content.Intent):36:36 -> onReceive
+    1:4:void <init>():18:18 -> <init>
+    7:20:void onReceive(android.content.Context,android.content.Intent):21:21 -> onReceive
+    21:28:void onReceive(android.content.Context,android.content.Intent):22:22 -> onReceive
+    29:52:void onReceive(android.content.Context,android.content.Intent):23:23 -> onReceive
+    53:57:void onReceive(android.content.Context,android.content.Intent):25:25 -> onReceive
+    58:61:void onReceive(android.content.Context,android.content.Intent):26:26 -> onReceive
+    62:67:void onReceive(android.content.Context,android.content.Intent):28:28 -> onReceive
+    68:71:void onReceive(android.content.Context,android.content.Intent):29:29 -> onReceive
+    72:76:void onReceive(android.content.Context,android.content.Intent):32:32 -> onReceive
+    77:80:void onReceive(android.content.Context,android.content.Intent):35:35 -> onReceive
+    81:84:void onReceive(android.content.Context,android.content.Intent):36:36 -> onReceive
+    85:88:void onReceive(android.content.Context,android.content.Intent):37:37 -> onReceive
+    89:91:void onReceive(android.content.Context,android.content.Intent):33:33 -> onReceive
+    92:96:void onReceive(android.content.Context,android.content.Intent):41:41 -> onReceive
+    97:100:void onReceive(android.content.Context,android.content.Intent):42:42 -> onReceive
 com.example.waterreminder.receiver.WaterActionReceiver$Companion -> com.example.waterreminder.receiver.WaterActionReceiver$Companion:
 # {"id":"sourceFile","fileName":"WaterActionReceiver.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():40:40 -> <init>
+    5:5:void <init>():46:46 -> <init>
 com.example.waterreminder.receiver.WaterReminderReceiver -> com.example.waterreminder.receiver.WaterReminderReceiver:
 # {"id":"sourceFile","fileName":"WaterReminderReceiver.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    1:4:void <init>():11:11 -> <init>
-    4:10:void onReceive(android.content.Context,android.content.Intent):14:14 -> onReceive
-    11:15:void onReceive(android.content.Context,android.content.Intent):16:16 -> onReceive
-    16:21:void onReceive(android.content.Context,android.content.Intent):17:17 -> onReceive
-    22:26:void onReceive(android.content.Context,android.content.Intent):18:18 -> onReceive
-    27:29:void onReceive(android.content.Context,android.content.Intent):19:19 -> onReceive
-    30:36:void onReceive(android.content.Context,android.content.Intent):21:21 -> onReceive
-    37:40:void onReceive(android.content.Context,android.content.Intent):22:22 -> onReceive
+    1:4:void <init>():17:17 -> <init>
+    4:10:void onReceive(android.content.Context,android.content.Intent):20:20 -> onReceive
+    11:15:void onReceive(android.content.Context,android.content.Intent):22:22 -> onReceive
+    16:21:void onReceive(android.content.Context,android.content.Intent):23:23 -> onReceive
+    22:26:void onReceive(android.content.Context,android.content.Intent):24:24 -> onReceive
+    27:29:void onReceive(android.content.Context,android.content.Intent):25:25 -> onReceive
+    30:36:void onReceive(android.content.Context,android.content.Intent):27:27 -> onReceive
+    37:40:void onReceive(android.content.Context,android.content.Intent):28:28 -> onReceive
 com.example.waterreminder.receiver.WaterReminderReceiver$Companion -> com.example.waterreminder.receiver.WaterReminderReceiver$Companion:
 # {"id":"sourceFile","fileName":"WaterReminderReceiver.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():26:26 -> <init>
+    5:5:void <init>():32:32 -> <init>
 com.example.waterreminder.reminder.NotificationHelper -> com.example.waterreminder.reminder.NotificationHelper:
 # {"id":"sourceFile","fileName":"NotificationHelper.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    4:8:void <init>(android.content.Context):15:15 -> <init>
-    9:21:void <init>(android.content.Context):18:18 -> <init>
-    22:25:void <init>(android.content.Context):21:21 -> <init>
-    1:10:void createNotificationChannel():26:26 -> createNotificationChannel
-    11:16:void createNotificationChannel():31:31 -> createNotificationChannel
-    17:19:void createNotificationChannel():32:32 -> createNotificationChannel
-    20:27:void createNotificationChannel():33:33 -> createNotificationChannel
-    28:34:void createNotificationChannel():35:35 -> createNotificationChannel
-    1:8:void dismissNotification():84:84 -> dismissNotification
-    1:11:void showNotification():40:40 -> showNotification
-    12:14:void showNotification():41:41 -> showNotification
-    15:19:void showNotification():44:44 -> showNotification
-    20:23:void showNotification():43:43 -> showNotification
-    24:32:void showNotification():50:50 -> showNotification
-    33:37:void showNotification():51:51 -> showNotification
-    38:44:void showNotification():52:52 -> showNotification
-    45:48:void showNotification():55:55 -> showNotification
-    49:53:void showNotification():54:54 -> showNotification
-    54:57:void showNotification():61:61 -> showNotification
-    58:66:void showNotification():63:63 -> showNotification
+    4:8:void <init>(android.content.Context):24:24 -> <init>
+    9:21:void <init>(android.content.Context):27:27 -> <init>
+    22:25:void <init>(android.content.Context):30:30 -> <init>
+    1:10:void createNotificationChannel():35:35 -> createNotificationChannel
+    11:16:void createNotificationChannel():40:40 -> createNotificationChannel
+    17:19:void createNotificationChannel():41:41 -> createNotificationChannel
+    20:27:void createNotificationChannel():42:42 -> createNotificationChannel
+    28:34:void createNotificationChannel():44:44 -> createNotificationChannel
+    1:8:void dismissNotification():93:93 -> dismissNotification
+    1:11:void showNotification():49:49 -> showNotification
+    12:14:void showNotification():50:50 -> showNotification
+    15:19:void showNotification():53:53 -> showNotification
+    20:23:void showNotification():52:52 -> showNotification
+    24:32:void showNotification():59:59 -> showNotification
+    33:37:void showNotification():60:60 -> showNotification
+    38:44:void showNotification():61:61 -> showNotification
+    45:48:void showNotification():64:64 -> showNotification
+    49:53:void showNotification():63:63 -> showNotification
+    54:57:void showNotification():70:70 -> showNotification
+    58:66:void showNotification():72:72 -> showNotification
     67:73:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSmallIcon(int):1421:1421 -> showNotification
-    67:73:void showNotification():64 -> showNotification
-    74:75:void showNotification():65:65 -> showNotification
+    67:73:void showNotification():73 -> showNotification
+    74:75:void showNotification():74:74 -> showNotification
     76:81:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setContentTitle(java.lang.CharSequence):1468:1468 -> showNotification
-    76:81:void showNotification():65 -> showNotification
-    82:83:void showNotification():66:66 -> showNotification
+    76:81:void showNotification():74 -> showNotification
+    82:83:void showNotification():75:75 -> showNotification
     84:90:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setContentText(java.lang.CharSequence):1476:1476 -> showNotification
-    84:90:void showNotification():66 -> showNotification
+    84:90:void showNotification():75 -> showNotification
     91:92:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setPriority(int):1949:1949 -> showNotification
-    91:92:void showNotification():67 -> showNotification
-    93:94:void showNotification():68:68 -> showNotification
+    91:92:void showNotification():76 -> showNotification
+    93:94:void showNotification():77:77 -> showNotification
     95:96:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setCategory(java.lang.String):1886:1886 -> showNotification
-    95:96:void showNotification():68 -> showNotification
+    95:96:void showNotification():77 -> showNotification
     97:102:void androidx.core.app.NotificationCompat$Builder.setFlag(int,boolean):1920:1920 -> showNotification
     97:102:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setAutoCancel(boolean):1863 -> showNotification
-    97:102:void showNotification():69 -> showNotification
+    97:102:void showNotification():78 -> showNotification
     103:104:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setLocalOnly(boolean):1874:1874 -> showNotification
-    103:104:void showNotification():70 -> showNotification
+    103:104:void showNotification():79 -> showNotification
     105:107:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1726:1726 -> showNotification
-    105:107:void showNotification():71 -> showNotification
+    105:107:void showNotification():80 -> showNotification
     108:109:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1727:1727 -> showNotification
-    108:109:void showNotification():71 -> showNotification
+    108:109:void showNotification():80 -> showNotification
     110:115:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1728:1728 -> showNotification
-    110:115:void showNotification():71 -> showNotification
+    110:115:void showNotification():80 -> showNotification
     116:120:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1729:1729 -> showNotification
-    116:120:void showNotification():71 -> showNotification
+    116:120:void showNotification():80 -> showNotification
     121:124:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1730:1730 -> showNotification
-    121:124:void showNotification():71 -> showNotification
+    121:124:void showNotification():80 -> showNotification
     125:130:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setSound(android.net.Uri):1731:1731 -> showNotification
-    125:130:void showNotification():71 -> showNotification
-    131:135:void showNotification():72:72 -> showNotification
+    125:130:void showNotification():80 -> showNotification
+    131:135:void showNotification():81:81 -> showNotification
     136:137:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setVibrate(long[]):1781:1781 -> showNotification
-    136:137:void showNotification():72 -> showNotification
+    136:137:void showNotification():81 -> showNotification
     138:139:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.setContentIntent(android.app.PendingIntent):1621:1621 -> showNotification
-    138:139:void showNotification():73 -> showNotification
+    138:139:void showNotification():82 -> showNotification
     140:151:androidx.core.app.NotificationCompat$Builder androidx.core.app.NotificationCompat$Builder.addAction(int,java.lang.CharSequence,android.app.PendingIntent):2137:2137 -> showNotification
-    140:151:void showNotification():74 -> showNotification
-    152:164:void showNotification():80:80 -> showNotification
+    140:151:void showNotification():83 -> showNotification
+    152:164:void showNotification():89:89 -> showNotification
 com.example.waterreminder.reminder.NotificationHelper$Companion -> com.example.waterreminder.reminder.NotificationHelper$Companion:
 # {"id":"sourceFile","fileName":"NotificationHelper.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():87:87 -> <init>
+    5:5:void <init>():96:96 -> <init>
 com.example.waterreminder.reminder.ReminderScheduler -> com.example.waterreminder.reminder.ReminderScheduler:
 # {"id":"sourceFile","fileName":"ReminderScheduler.kt"}
     1:13:void <clinit>():0:0 -> <clinit>
-    4:8:void <init>(android.content.Context):13:13 -> <init>
-    9:22:void <init>(android.content.Context):15:15 -> <init>
-    1:4:void cancelReminder():90:90 -> cancelReminder
-    5:9:void cancelReminder():91:91 -> cancelReminder
-    10:17:void cancelReminder():92:92 -> cancelReminder
-    1:9:android.app.PendingIntent createAlarmPendingIntent():18:18 -> createAlarmPendingIntent
-    10:15:android.app.PendingIntent createAlarmPendingIntent():20:20 -> createAlarmPendingIntent
-    16:23:android.app.PendingIntent createAlarmPendingIntent():19:19 -> createAlarmPendingIntent
-    1:9:android.app.PendingIntent createShowIntent():28:28 -> createShowIntent
-    10:15:android.app.PendingIntent createShowIntent():30:30 -> createShowIntent
-    16:23:android.app.PendingIntent createShowIntent():29:29 -> createShowIntent
-    1:11:long scheduleNextReminder(java.lang.Long):38:38 -> scheduleNextReminder
-    12:17:long scheduleNextReminder(java.lang.Long):39:39 -> scheduleNextReminder
-    18:23:long scheduleNextReminder(java.lang.Long):40:40 -> scheduleNextReminder
-    24:29:long scheduleNextReminder(java.lang.Long):44:44 -> scheduleNextReminder
-    30:34:long scheduleNextReminder(java.lang.Long):45:45 -> scheduleNextReminder
-    35:48:long scheduleNextReminder(java.lang.Long):46:46 -> scheduleNextReminder
-    49:52:long scheduleNextReminder(java.lang.Long):48:48 -> scheduleNextReminder
-    53:56:long scheduleNextReminder(java.lang.Long):51:51 -> scheduleNextReminder
-    57:60:long scheduleNextReminder(java.lang.Long):52:52 -> scheduleNextReminder
-    61:65:long scheduleNextReminder(java.lang.Long):56:56 -> scheduleNextReminder
-    66:70:long scheduleNextReminder(java.lang.Long):57:57 -> scheduleNextReminder
-    71:92:long scheduleNextReminder(java.lang.Long):58:58 -> scheduleNextReminder
-    93:97:long scheduleNextReminder(java.lang.Long):73:73 -> scheduleNextReminder
-    98:105:long scheduleNextReminder(java.lang.Long):76:76 -> scheduleNextReminder
-    106:111:long scheduleNextReminder(java.lang.Long):83:83 -> scheduleNextReminder
-    6:10:long scheduleNextReminder$default(com.example.waterreminder.reminder.ReminderScheduler,java.lang.Long,int,java.lang.Object):37:37 -> scheduleNextReminder$default
+    4:8:void <init>(android.content.Context):24:24 -> <init>
+    9:22:void <init>(android.content.Context):26:26 -> <init>
+    1:4:void cancelReminder():101:101 -> cancelReminder
+    5:9:void cancelReminder():102:102 -> cancelReminder
+    10:17:void cancelReminder():103:103 -> cancelReminder
+    1:9:android.app.PendingIntent createAlarmPendingIntent():29:29 -> createAlarmPendingIntent
+    10:15:android.app.PendingIntent createAlarmPendingIntent():31:31 -> createAlarmPendingIntent
+    16:23:android.app.PendingIntent createAlarmPendingIntent():30:30 -> createAlarmPendingIntent
+    1:9:android.app.PendingIntent createShowIntent():39:39 -> createShowIntent
+    10:15:android.app.PendingIntent createShowIntent():41:41 -> createShowIntent
+    16:23:android.app.PendingIntent createShowIntent():40:40 -> createShowIntent
+    1:11:long scheduleNextReminder(java.lang.Long):49:49 -> scheduleNextReminder
+    12:17:long scheduleNextReminder(java.lang.Long):50:50 -> scheduleNextReminder
+    18:23:long scheduleNextReminder(java.lang.Long):51:51 -> scheduleNextReminder
+    24:29:long scheduleNextReminder(java.lang.Long):55:55 -> scheduleNextReminder
+    30:34:long scheduleNextReminder(java.lang.Long):56:56 -> scheduleNextReminder
+    35:48:long scheduleNextReminder(java.lang.Long):57:57 -> scheduleNextReminder
+    49:52:long scheduleNextReminder(java.lang.Long):59:59 -> scheduleNextReminder
+    53:56:long scheduleNextReminder(java.lang.Long):62:62 -> scheduleNextReminder
+    57:60:long scheduleNextReminder(java.lang.Long):63:63 -> scheduleNextReminder
+    61:65:long scheduleNextReminder(java.lang.Long):67:67 -> scheduleNextReminder
+    66:70:long scheduleNextReminder(java.lang.Long):68:68 -> scheduleNextReminder
+    71:92:long scheduleNextReminder(java.lang.Long):69:69 -> scheduleNextReminder
+    93:97:long scheduleNextReminder(java.lang.Long):84:84 -> scheduleNextReminder
+    98:105:long scheduleNextReminder(java.lang.Long):87:87 -> scheduleNextReminder
+    106:111:long scheduleNextReminder(java.lang.Long):94:94 -> scheduleNextReminder
+    6:10:long scheduleNextReminder$default(com.example.waterreminder.reminder.ReminderScheduler,java.lang.Long,int,java.lang.Object):48:48 -> scheduleNextReminder$default
 com.example.waterreminder.reminder.ReminderScheduler$Companion -> com.example.waterreminder.reminder.ReminderScheduler$Companion:
 # {"id":"sourceFile","fileName":"ReminderScheduler.kt"}
     1:4:void <init>(kotlin.jvm.internal.DefaultConstructorMarker):0:0 -> <init>
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb5/g;)V"}
-    5:5:void <init>():95:95 -> <init>
+    5:5:void <init>():106:106 -> <init>
 com.example.waterreminder.sync.WearDataListenerService -> com.example.waterreminder.sync.WearDataListenerService:
 # {"id":"sourceFile","fileName":"WearDataListenerService.kt"}
     android.content.ComponentName com.google.android.gms.wearable.WearableListenerService.zza -> d
@@ -143777,50 +143766,50 @@ com.example.waterreminder.sync.WearDataListenerService -> com.example.waterremin
     com.google.android.gms.wearable.internal.zzbd com.google.android.gms.wearable.WearableListenerService.zzh -> k
       # {"id":"com.android.tools.r8.residualsignature","signature":"Ln4/d;"}
     1:25:void com.google.android.gms.wearable.WearableListenerService.<init>():1:1 -> <init>
-    1:25:void <init>():11 -> <init>
+    1:25:void <init>():18 -> <init>
     1:1:void com.google.android.gms.wearable.WearableListenerService.onChannelOpened(com.google.android.gms.wearable.Channel):0:0 -> a
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Ln4/f;)V"}
     1:5:java.util.Iterator com.google.android.gms.common.data.AbstractDataBuffer.iterator():1:1 -> b
-    1:5:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):14 -> b
+    1:5:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):21 -> b
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lm4/d;)V"}
-    6:17:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):14:14 -> b
+    6:17:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):21:21 -> b
     18:24:int com.google.android.gms.wearable.internal.zzdf.getType():1:1 -> b
-    18:24:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):15 -> b
+    18:24:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):22 -> b
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    25:46:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):15:15 -> b
-    47:52:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):16:16 -> b
+    25:46:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):22:22 -> b
+    47:52:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23:23 -> b
     53:54:com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem.fromDataItem(com.google.android.gms.wearable.DataItem):1:1 -> b
-    53:54:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):16 -> b
+    53:54:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23 -> b
     55:57:com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem.fromDataItem(com.google.android.gms.wearable.DataItem):2:2 -> b
-    55:57:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):16 -> b
+    55:57:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23 -> b
     58:61:com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMapItem.getDataMap():0:0 -> b
-    58:61:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):16 -> b
-    62:66:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):16:16 -> b
-    67:73:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):17:17 -> b
-    74:81:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):18:18 -> b
+    58:61:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23 -> b
+    62:66:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23:23 -> b
+    67:73:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):24:24 -> b
+    74:81:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):25:25 -> b
     82:90:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):2:2 -> b
-    82:90:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):19 -> b
+    82:90:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):26 -> b
     91:99:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):3:3 -> b
-    91:99:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):19 -> b
+    91:99:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):26 -> b
     100:106:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):4:4 -> b
-    100:106:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):19 -> b
-    107:114:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):20:20 -> b
+    100:106:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):26 -> b
+    107:114:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):27:27 -> b
     115:125:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):2:2 -> b
-    115:125:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):21 -> b
+    115:125:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):28 -> b
     126:138:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):3:3 -> b
-    126:138:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):21 -> b
+    126:138:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):28 -> b
     139:141:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):4:4 -> b
-    139:141:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):21 -> b
-    142:192:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):23:23 -> b
-    193:204:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):25:25 -> b
-    205:207:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):26:26 -> b
-    208:210:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):27:27 -> b
-    211:213:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):28:28 -> b
-    214:216:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):29:29 -> b
-    217:230:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):31:31 -> b
-    231:244:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):33:33 -> b
-    245:249:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):34:34 -> b
-    250:255:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):36:36 -> b
+    139:141:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):28 -> b
+    142:192:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):30:30 -> b
+    193:204:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):32:32 -> b
+    205:207:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):33:33 -> b
+    208:210:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):34:34 -> b
+    211:213:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):35:35 -> b
+    214:216:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):36:36 -> b
+    217:230:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):38:38 -> b
+    231:244:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):40:40 -> b
+    245:249:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):41:41 -> b
+    250:255:void onDataChanged(com.google.android.gms.wearable.DataEventBuffer):43:43 -> b
     1:1:void com.google.android.gms.wearable.WearableListenerService.onInputClosed(com.google.android.gms.wearable.Channel,int,int):0:0 -> c
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Ln4/f;)V"}
     1:1:void com.google.android.gms.wearable.WearableListenerService.onChannelClosed(com.google.android.gms.wearable.Channel,int,int):0:0 -> d
@@ -143861,60 +143850,60 @@ com.example.waterreminder.sync.WearableDataSync -> r3.c:
     android.content.Context context -> a
     kotlin.Lazy dataClient$delegate -> b
       # {"id":"com.android.tools.r8.residualsignature","signature":"Lo4/h;"}
-    4:8:void <init>(android.content.Context):7:7 -> <init>
-    9:15:void <init>(android.content.Context):9:9 -> <init>
+    4:8:void <init>(android.content.Context):17:17 -> <init>
+    9:15:void <init>(android.content.Context):19:19 -> <init>
     16:20:kotlin.Lazy kotlin.LazyKt__LazyJVMKt.lazy(kotlin.jvm.functions.Function0):26:26 -> <init>
-    16:20:void <init>(android.content.Context):9 -> <init>
-    21:23:void <init>(android.content.Context):9:9 -> <init>
-    1:11:com.google.android.gms.wearable.DataClient getDataClient():9:9 -> a
-    1:11:void syncToPeer(int,int,boolean,int,long):25 -> a
-    12:19:void syncToPeer(int,int,boolean,int,long):27:27 -> a
-    20:21:void syncToPeer(int,int,boolean,int,long):28:28 -> a
+    16:20:void <init>(android.content.Context):19 -> <init>
+    21:23:void <init>(android.content.Context):19:19 -> <init>
+    1:11:com.google.android.gms.wearable.DataClient getDataClient():19:19 -> a
+    1:11:void syncToPeer(int,int,boolean,int,long):35 -> a
+    12:19:void syncToPeer(int,int,boolean,int,long):37:37 -> a
+    20:21:void syncToPeer(int,int,boolean,int,long):38:38 -> a
     22:25:void com.google.android.gms.wearable.DataMap.putInt(java.lang.String,int):1:1 -> a
-    22:25:void syncToPeer(int,int,boolean,int,long):28 -> a
+    22:25:void syncToPeer(int,int,boolean,int,long):38 -> a
     26:29:void com.google.android.gms.wearable.DataMap.putInt(java.lang.String,int):1:1 -> a
-    26:29:void syncToPeer(int,int,boolean,int,long):28 -> a
+    26:29:void syncToPeer(int,int,boolean,int,long):38 -> a
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
     30:32:void com.google.android.gms.wearable.DataMap.putInt(java.lang.String,int):1:1 -> a
-    30:32:void syncToPeer(int,int,boolean,int,long):28 -> a
-    33:34:void syncToPeer(int,int,boolean,int,long):29:29 -> a
+    30:32:void syncToPeer(int,int,boolean,int,long):38 -> a
+    33:34:void syncToPeer(int,int,boolean,int,long):39:39 -> a
     35:41:void com.google.android.gms.wearable.DataMap.putInt(java.lang.String,int):1:1 -> a
-    35:41:void syncToPeer(int,int,boolean,int,long):29 -> a
-    42:43:void syncToPeer(int,int,boolean,int,long):30:30 -> a
+    35:41:void syncToPeer(int,int,boolean,int,long):39 -> a
+    42:43:void syncToPeer(int,int,boolean,int,long):40:40 -> a
     44:50:void com.google.android.gms.wearable.DataMap.putBoolean(java.lang.String,boolean):1:1 -> a
-    44:50:void syncToPeer(int,int,boolean,int,long):30 -> a
-    51:52:void syncToPeer(int,int,boolean,int,long):31:31 -> a
+    44:50:void syncToPeer(int,int,boolean,int,long):40 -> a
+    51:52:void syncToPeer(int,int,boolean,int,long):41:41 -> a
     53:59:void com.google.android.gms.wearable.DataMap.putInt(java.lang.String,int):1:1 -> a
-    53:59:void syncToPeer(int,int,boolean,int,long):31 -> a
-    60:61:void syncToPeer(int,int,boolean,int,long):32:32 -> a
+    53:59:void syncToPeer(int,int,boolean,int,long):41 -> a
+    60:61:void syncToPeer(int,int,boolean,int,long):42:42 -> a
     62:68:void com.google.android.gms.wearable.DataMap.putLong(java.lang.String,long):1:1 -> a
-    62:68:void syncToPeer(int,int,boolean,int,long):32 -> a
-    69:74:void syncToPeer(int,int,boolean,int,long):33:33 -> a
+    62:68:void syncToPeer(int,int,boolean,int,long):42 -> a
+    69:74:void syncToPeer(int,int,boolean,int,long):43:43 -> a
     75:81:void com.google.android.gms.wearable.DataMap.putLong(java.lang.String,long):1:1 -> a
-    75:81:void syncToPeer(int,int,boolean,int,long):33 -> a
-    82:87:void syncToPeer(int,int,boolean,int,long):35:35 -> a
+    75:81:void syncToPeer(int,int,boolean,int,long):43 -> a
+    82:87:void syncToPeer(int,int,boolean,int,long):45:45 -> a
     88:89:com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest.setUrgent():0:0 -> a
-    88:89:void syncToPeer(int,int,boolean,int,long):35 -> a
+    88:89:void syncToPeer(int,int,boolean,int,long):45 -> a
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    90:93:void syncToPeer(int,int,boolean,int,long):36:36 -> a
-    94:110:void syncToPeer(int,int,boolean,int,long):37:37 -> a
+    90:93:void syncToPeer(int,int,boolean,int,long):46:46 -> a
+    94:110:void syncToPeer(int,int,boolean,int,long):47:47 -> a
     111:112:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnSuccessListener(com.google.android.gms.tasks.OnSuccessListener):5:5 -> a
-    111:112:void syncToPeer(int,int,boolean,int,long):37 -> a
+    111:112:void syncToPeer(int,int,boolean,int,long):47 -> a
     113:120:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnSuccessListener(java.util.concurrent.Executor,com.google.android.gms.tasks.OnSuccessListener):6:6 -> a
     113:120:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnSuccessListener(com.google.android.gms.tasks.OnSuccessListener):5 -> a
-    113:120:void syncToPeer(int,int,boolean,int,long):37 -> a
+    113:120:void syncToPeer(int,int,boolean,int,long):47 -> a
     121:123:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnSuccessListener(java.util.concurrent.Executor,com.google.android.gms.tasks.OnSuccessListener):7:7 -> a
     121:123:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnSuccessListener(com.google.android.gms.tasks.OnSuccessListener):5 -> a
-    121:123:void syncToPeer(int,int,boolean,int,long):37 -> a
-    124:130:void syncToPeer(int,int,boolean,int,long):40:40 -> a
+    121:123:void syncToPeer(int,int,boolean,int,long):47 -> a
+    124:130:void syncToPeer(int,int,boolean,int,long):50:50 -> a
     131:138:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnFailureListener(java.util.concurrent.Executor,com.google.android.gms.tasks.OnFailureListener):6:6 -> a
     131:138:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnFailureListener(com.google.android.gms.tasks.OnFailureListener):5 -> a
-    131:138:void syncToPeer(int,int,boolean,int,long):40 -> a
+    131:138:void syncToPeer(int,int,boolean,int,long):50 -> a
     139:143:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnFailureListener(java.util.concurrent.Executor,com.google.android.gms.tasks.OnFailureListener):7:7 -> a
     139:143:com.google.android.gms.tasks.Task com.google.android.gms.tasks.zzw.addOnFailureListener(com.google.android.gms.tasks.OnFailureListener):5 -> a
-    139:143:void syncToPeer(int,int,boolean,int,long):40 -> a
-    144:151:void syncToPeer(int,int,boolean,int,long):44:44 -> a
-    8:11:void syncToPeer$default(com.example.waterreminder.sync.WearableDataSync,int,int,boolean,int,long,int,java.lang.Object):18:18 -> b
+    139:143:void syncToPeer(int,int,boolean,int,long):50 -> a
+    144:151:void syncToPeer(int,int,boolean,int,long):54:54 -> a
+    8:11:void syncToPeer$default(com.example.waterreminder.sync.WearableDataSync,int,int,boolean,int,long,int,java.lang.Object):28:28 -> b
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lr3/c;IIZI)V"}
 com.example.waterreminder.sync.WearableDataSync$$ExternalSyntheticLambda0 -> r3.a:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
@@ -143928,42 +143917,42 @@ com.example.waterreminder.sync.WearableDataSync$$ExternalSyntheticLambda0 -> r3.
     5:6:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):0:0 -> b
       # {"id":"com.android.tools.r8.residualsignature","signature":"(Lm4/d;)V"}
     7:13:java.util.Iterator com.google.android.gms.common.data.AbstractDataBuffer.iterator():1:1 -> b
-    7:13:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):52 -> b
-    14:25:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):52:52 -> b
+    7:13:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):62 -> b
+    14:25:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):62:62 -> b
     26:32:int com.google.android.gms.wearable.internal.zzdf.getType():1:1 -> b
-    26:32:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):53 -> b
+    26:32:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):63 -> b
       # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
-    33:54:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):53:53 -> b
-    55:60:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):54:54 -> b
+    33:54:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):63:63 -> b
+    55:60:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):64:64 -> b
     61:62:com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem.fromDataItem(com.google.android.gms.wearable.DataItem):1:1 -> b
-    61:62:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):54 -> b
+    61:62:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):64 -> b
     63:65:com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem.fromDataItem(com.google.android.gms.wearable.DataItem):2:2 -> b
-    63:65:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):54 -> b
+    63:65:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):64 -> b
     66:70:com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMapItem.getDataMap():0:0 -> b
-    66:70:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):54 -> b
-    71:73:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):54:54 -> b
-    74:80:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):55:55 -> b
-    81:88:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):56:56 -> b
-    89:90:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):57:57 -> b
+    66:70:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):64 -> b
+    71:73:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):64:64 -> b
+    74:80:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):65:65 -> b
+    81:88:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):66:66 -> b
+    89:90:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):67:67 -> b
     91:99:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):2:2 -> b
-    91:99:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):57 -> b
+    91:99:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):67 -> b
     100:108:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):3:3 -> b
-    100:108:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):57 -> b
+    100:108:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):67 -> b
     109:115:boolean com.google.android.gms.wearable.DataMap.getBoolean(java.lang.String,boolean):4:4 -> b
-    109:115:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):57 -> b
-    116:123:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):58:58 -> b
-    124:125:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):59:59 -> b
+    109:115:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):67 -> b
+    116:123:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):68:68 -> b
+    124:125:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):69:69 -> b
     126:136:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):2:2 -> b
-    126:136:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):59 -> b
+    126:136:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):69 -> b
     137:149:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):3:3 -> b
-    137:149:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):59 -> b
+    137:149:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):69 -> b
     150:152:long com.google.android.gms.wearable.DataMap.getLong(java.lang.String,long):4:4 -> b
-    150:152:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):59 -> b
-    153:188:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):60:60 -> b
-    189:208:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):61:61 -> b
-    209:210:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):61:61 -> b
-    211:244:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):61:61 -> b
-    245:250:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):65:65 -> b
+    150:152:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):69 -> b
+    153:188:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):70:70 -> b
+    189:208:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):71:71 -> b
+    209:210:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):71:71 -> b
+    211:244:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):71:71 -> b
+    245:250:void com.example.waterreminder.sync.WearableDataSync.startListening$lambda$0(kotlin.jvm.functions.Function5,com.google.android.gms.wearable.DataEventBuffer):75:75 -> b
 com.example.waterreminder.sync.WearableDataSync$$ExternalSyntheticLambda1 -> r3.b:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -143975,7 +143964,7 @@ com.example.waterreminder.sync.WearableDataSync$$ExternalSyntheticLambda1 -> r3.
       # {"id":"com.android.tools.r8.synthesized"}
     1:10:void r3.WearableDataSync$$ExternalSyntheticLambda1.<init>(int,int,long):0:0 -> <init>
       # {"id":"com.android.tools.r8.synthesized"}
-    3:43:kotlin.Unit com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$1(int,int,long,com.google.android.gms.wearable.DataItem):38:38 -> c
+    3:43:kotlin.Unit com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$1(int,int,long,com.google.android.gms.wearable.DataItem):48:48 -> c
     3:43:java.lang.Object r3.WearableDataSync$$ExternalSyntheticLambda1.invoke(java.lang.Object):0 -> c
       # {"id":"com.android.tools.r8.synthesized"}
     44:46:java.lang.Object r3.WearableDataSync$$ExternalSyntheticLambda1.invoke(java.lang.Object):0:0 -> c
@@ -156711,7 +156700,7 @@ com.google.android.gms.tasks.zzi -> l4.e:
     461:464:void l4.zzi.run():0 -> run
     465:476:void com.google.android.gms.tasks.zzm.run():1:1 -> run
     465:476:void l4.zzi.run():0 -> run
-    477:479:void com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$2(kotlin.jvm.functions.Function1,java.lang.Object):37:37 -> run
+    477:479:void com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$2(kotlin.jvm.functions.Function1,java.lang.Object):47:47 -> run
     477:479:void com.google.android.gms.tasks.zzm.run():1 -> run
     477:479:void l4.zzi.run():0 -> run
     480:484:void com.google.android.gms.tasks.zzm.run():2:2 -> run
@@ -156723,7 +156712,7 @@ com.google.android.gms.tasks.zzi -> l4.e:
     489:490:void l4.zzi.run():0 -> run
     491:502:void com.google.android.gms.tasks.zzk.run():1:1 -> run
     491:502:void l4.zzi.run():0 -> run
-    503:525:void com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$3(java.lang.Exception):41:41 -> run
+    503:525:void com.example.waterreminder.sync.WearableDataSync.syncToPeer$lambda$3(java.lang.Exception):51:51 -> run
     503:525:void com.google.android.gms.tasks.zzk.run():1 -> run
     503:525:void l4.zzi.run():0 -> run
     526:530:void com.google.android.gms.tasks.zzk.run():2:2 -> run

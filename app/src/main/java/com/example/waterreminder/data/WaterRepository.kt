@@ -4,6 +4,14 @@ import android.content.Context
 import android.content.SharedPreferences
 import java.util.Calendar
 
+/**
+ * Repository responsible for managing user hydration state, goals, and reminder preferences.
+ *
+ * Persists data via [SharedPreferences] and automatically checks for date transitions
+ * using [Calendar.DAY_OF_YEAR] to reset the daily intake counter at midnight.
+ *
+ * @param context The application or component context used to access SharedPreferences.
+ */
 class WaterRepository(context: Context) {
 
     private val prefs: SharedPreferences =

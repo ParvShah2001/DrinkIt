@@ -22,6 +22,16 @@ import com.example.waterreminder.R
 import com.example.waterreminder.data.WaterRepository
 import com.example.waterreminder.presentation.MainActivity
 
+/**
+ * Wear OS Complication Data Source provider for the Drink It! application.
+ *
+ * Exposes live water intake progress to watch faces supporting:
+ * - [ComplicationType.RANGED_VALUE]: Circular gauge with min (0), max (daily goal), and current intake.
+ * - [ComplicationType.SHORT_TEXT]: Compact percentage or intake volume string.
+ * - [ComplicationType.MONOCHROMATIC_IMAGE] / [ComplicationType.SMALL_IMAGE]: Ambient water drop icon.
+ *
+ * Tapping the complication launches [MainActivity] directly.
+ */
 class WaterComplicationService : ComplicationDataSourceService() {
 
     override fun getPreviewData(type: ComplicationType): ComplicationData? {

@@ -10,6 +10,17 @@ import com.example.waterreminder.data.WaterRepository
 import com.example.waterreminder.presentation.MainActivity
 import com.example.waterreminder.receiver.WaterReminderReceiver
 
+/**
+ * Schedules high-reliability, exact hydration reminder alarms using [AlarmManager].
+ *
+ * Utilizes [AlarmManager.setAlarmClock] on API 21+ to guarantee exact wakeups even
+ * through deep Android Doze mode and manufacturer power-saving restrictions.
+ *
+ * Supports synchronized trigger timestamps across paired devices to ensure
+ * notifications fire concurrently without drift.
+ *
+ * @param context The application context used to obtain the system [AlarmManager].
+ */
 class ReminderScheduler(private val context: Context) {
 
     private val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager

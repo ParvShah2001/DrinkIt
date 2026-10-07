@@ -87,6 +87,8 @@ dependencies {
   debugImplementation(libs.androidx.compose.ui.tooling)
   // Instrumented tests
   androidTestImplementation(libs.androidx.compose.ui.test.junit4)
+  androidTestImplementation(libs.androidx.test.ext.junit)
+  androidTestImplementation(libs.androidx.test.core)
   debugImplementation(libs.androidx.compose.ui.test.manifest)
 
   // Local tests

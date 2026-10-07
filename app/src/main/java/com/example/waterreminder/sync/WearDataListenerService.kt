@@ -9,6 +9,13 @@ import com.google.android.gms.wearable.DataEventBuffer
 import com.google.android.gms.wearable.DataMapItem
 import com.google.android.gms.wearable.WearableListenerService
 
+/**
+ * Background listener service receiving Wearable Data Layer events from paired phone.
+ *
+ * Automatically triggered by Google Play Services when data at `/water_data` changes.
+ * Reconciles local [WaterRepository] state, updates watch complications, and reschedules
+ * alarms to the peer's synchronized epoch timestamp.
+ */
 class WearDataListenerService : WearableListenerService() {
 
     override fun onDataChanged(dataEvents: DataEventBuffer) {

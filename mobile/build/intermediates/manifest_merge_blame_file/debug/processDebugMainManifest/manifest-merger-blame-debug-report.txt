@@ -1,31 +1,31 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.main.waterreminder"
-4    android:versionCode="8"
-5    android:versionName="8.0" >
+4    android:versionCode="102"
+5    android:versionName="10.2" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
 9        android:targetSdkVersion="36" />
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->D:\Drink it\mobile\src\main\AndroidManifest.xml:4:5-77
-11-->D:\Drink it\mobile\src\main\AndroidManifest.xml:4:22-74
+11-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:4:5-77
+11-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:4:22-74
 12    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
-12-->D:\Drink it\mobile\src\main\AndroidManifest.xml:5:5-79
-12-->D:\Drink it\mobile\src\main\AndroidManifest.xml:5:22-76
+12-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:5:5-79
+12-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:5:22-76
 13    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
-13-->D:\Drink it\mobile\src\main\AndroidManifest.xml:6:5-74
-13-->D:\Drink it\mobile\src\main\AndroidManifest.xml:6:22-71
+13-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:6:5-74
+13-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:6:22-71
 14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-14-->D:\Drink it\mobile\src\main\AndroidManifest.xml:7:5-81
-14-->D:\Drink it\mobile\src\main\AndroidManifest.xml:7:22-78
+14-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:7:5-81
+14-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:7:22-78
 15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->D:\Drink it\mobile\src\main\AndroidManifest.xml:8:5-68
-15-->D:\Drink it\mobile\src\main\AndroidManifest.xml:8:22-65
+15-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:8:5-68
+15-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:8:22-65
 16    <uses-permission android:name="android.permission.VIBRATE" />
-16-->D:\Drink it\mobile\src\main\AndroidManifest.xml:9:5-66
-16-->D:\Drink it\mobile\src\main\AndroidManifest.xml:9:22-63
+16-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:9:5-66
+16-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:9:22-63
 17
 18    <permission
 18-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
@@ -39,103 +39,103 @@
 22-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
 23
 24    <application
-24-->D:\Drink it\mobile\src\main\AndroidManifest.xml:11:5-63:19
+24-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:11:5-63:19
 25        android:allowBackup="true"
-25-->D:\Drink it\mobile\src\main\AndroidManifest.xml:12:9-35
+25-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:12:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.18.0] C:\Users\parvs\.gradle\caches\9.6.1\transforms\1404704e3f2e3eaa20804d22f9ecbd4a\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
 27        android:debuggable="true"
 28        android:extractNativeLibs="false"
 29        android:icon="@mipmap/ic_launcher"
-29-->D:\Drink it\mobile\src\main\AndroidManifest.xml:13:9-43
+29-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:13:9-43
 30        android:label="@string/app_name"
-30-->D:\Drink it\mobile\src\main\AndroidManifest.xml:14:9-41
+30-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:14:9-41
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->D:\Drink it\mobile\src\main\AndroidManifest.xml:15:9-54
+31-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:15:9-54
 32        android:supportsRtl="true"
-32-->D:\Drink it\mobile\src\main\AndroidManifest.xml:16:9-35
+32-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:16:9-35
 33        android:theme="@style/Theme.WaterReminder" >
-33-->D:\Drink it\mobile\src\main\AndroidManifest.xml:17:9-51
+33-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:17:9-51
 34        <activity
-34-->D:\Drink it\mobile\src\main\AndroidManifest.xml:19:9-29:20
+34-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:19:9-29:20
 35            android:name="com.example.waterreminder.presentation.MainActivity"
-35-->D:\Drink it\mobile\src\main\AndroidManifest.xml:20:13-54
+35-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:20:13-54
 36            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
-36-->D:\Drink it\mobile\src\main\AndroidManifest.xml:22:13-87
+36-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:22:13-87
 37            android:exported="true"
-37-->D:\Drink it\mobile\src\main\AndroidManifest.xml:21:13-36
+37-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:21:13-36
 38            android:theme="@style/Theme.WaterReminder"
-38-->D:\Drink it\mobile\src\main\AndroidManifest.xml:24:13-55
+38-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:24:13-55
 39            android:windowSoftInputMode="adjustResize" >
-39-->D:\Drink it\mobile\src\main\AndroidManifest.xml:23:13-55
+39-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:23:13-55
 40            <intent-filter>
-40-->D:\Drink it\mobile\src\main\AndroidManifest.xml:25:13-28:29
+40-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:25:13-28:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->D:\Drink it\mobile\src\main\AndroidManifest.xml:26:17-69
-41-->D:\Drink it\mobile\src\main\AndroidManifest.xml:26:25-66
+41-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:26:17-69
+41-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:26:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->D:\Drink it\mobile\src\main\AndroidManifest.xml:27:17-77
-43-->D:\Drink it\mobile\src\main\AndroidManifest.xml:27:27-74
+43-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:27:17-77
+43-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:27:27-74
 44            </intent-filter>
 45        </activity>
 46
 47        <receiver
-47-->D:\Drink it\mobile\src\main\AndroidManifest.xml:31:9-33:40
+47-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:31:9-33:40
 48            android:name="com.example.waterreminder.receiver.WaterReminderReceiver"
-48-->D:\Drink it\mobile\src\main\AndroidManifest.xml:32:13-59
+48-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:32:13-59
 49            android:exported="false" />
-49-->D:\Drink it\mobile\src\main\AndroidManifest.xml:33:13-37
+49-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:33:13-37
 50        <receiver
-50-->D:\Drink it\mobile\src\main\AndroidManifest.xml:35:9-37:40
+50-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:35:9-37:40
 51            android:name="com.example.waterreminder.receiver.WaterActionReceiver"
-51-->D:\Drink it\mobile\src\main\AndroidManifest.xml:36:13-57
+51-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:36:13-57
 52            android:exported="false" />
-52-->D:\Drink it\mobile\src\main\AndroidManifest.xml:37:13-37
+52-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:37:13-37
 53        <receiver
-53-->D:\Drink it\mobile\src\main\AndroidManifest.xml:39:9-48:20
+53-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:39:9-48:20
 54            android:name="com.example.waterreminder.receiver.BootReceiver"
-54-->D:\Drink it\mobile\src\main\AndroidManifest.xml:40:13-50
+54-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:40:13-50
 55            android:exported="true" >
-55-->D:\Drink it\mobile\src\main\AndroidManifest.xml:41:13-36
+55-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:41:13-36
 56            <intent-filter>
-56-->D:\Drink it\mobile\src\main\AndroidManifest.xml:42:13-47:29
+56-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:42:13-47:29
 57                <action android:name="android.intent.action.BOOT_COMPLETED" />
-57-->D:\Drink it\mobile\src\main\AndroidManifest.xml:43:17-79
-57-->D:\Drink it\mobile\src\main\AndroidManifest.xml:43:25-76
+57-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:43:17-79
+57-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:43:25-76
 58                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
-58-->D:\Drink it\mobile\src\main\AndroidManifest.xml:44:17-86
-58-->D:\Drink it\mobile\src\main\AndroidManifest.xml:44:25-83
+58-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:44:17-86
+58-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:44:25-83
 59                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-59-->D:\Drink it\mobile\src\main\AndroidManifest.xml:45:17-84
-59-->D:\Drink it\mobile\src\main\AndroidManifest.xml:45:25-81
+59-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:45:17-84
+59-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:45:25-81
 60                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-60-->D:\Drink it\mobile\src\main\AndroidManifest.xml:46:17-82
-60-->D:\Drink it\mobile\src\main\AndroidManifest.xml:46:25-79
+60-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:46:17-82
+60-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:46:25-79
 61            </intent-filter>
 62        </receiver>
 63
 64        <!-- Phone Wearable Data Layer Listener Service -->
 65        <service
-65-->D:\Drink it\mobile\src\main\AndroidManifest.xml:51:9-61:19
+65-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:51:9-61:19
 66            android:name="com.example.waterreminder.sync.WearDataListenerService"
-66-->D:\Drink it\mobile\src\main\AndroidManifest.xml:52:13-57
+66-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:52:13-57
 67            android:exported="true" >
-67-->D:\Drink it\mobile\src\main\AndroidManifest.xml:53:13-36
+67-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:53:13-36
 68            <intent-filter>
-68-->D:\Drink it\mobile\src\main\AndroidManifest.xml:54:13-60:29
+68-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:54:13-60:29
 69                <action android:name="com.google.android.gms.wearable.DATA_CHANGED" />
-69-->D:\Drink it\mobile\src\main\AndroidManifest.xml:55:17-87
-69-->D:\Drink it\mobile\src\main\AndroidManifest.xml:55:25-84
+69-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:55:17-87
+69-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:55:25-84
 70
 71                <data
-71-->D:\Drink it\mobile\src\main\AndroidManifest.xml:56:17-59:45
+71-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:56:17-59:45
 72                    android:host="*"
-72-->D:\Drink it\mobile\src\main\AndroidManifest.xml:57:21-37
+72-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:57:21-37
 73                    android:pathPrefix="/water_data"
-73-->D:\Drink it\mobile\src\main\AndroidManifest.xml:58:21-53
+73-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:58:21-53
 74                    android:scheme="wear" />
-74-->D:\Drink it\mobile\src\main\AndroidManifest.xml:59:21-42
+74-->D:\github\DrinkIt\mobile\src\main\AndroidManifest.xml:59:21-42
 75            </intent-filter>
 76        </service>
 77

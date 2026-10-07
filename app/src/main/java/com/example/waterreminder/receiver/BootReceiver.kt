@@ -7,6 +7,13 @@ import android.util.Log
 import com.example.waterreminder.data.WaterRepository
 import com.example.waterreminder.reminder.ReminderScheduler
 
+/**
+ * BroadcastReceiver responsible for restoring scheduled reminder alarms across device reboots
+ * and application updates.
+ *
+ * Listens for [Intent.ACTION_BOOT_COMPLETED], [Intent.ACTION_LOCKED_BOOT_COMPLETED],
+ * [Intent.ACTION_MY_PACKAGE_REPLACED], and vendor-specific quick boot intents.
+ */
 class BootReceiver : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent?) {

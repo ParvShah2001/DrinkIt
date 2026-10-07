@@ -4,6 +4,16 @@ import android.content.Context
 import android.util.Log
 import com.google.android.gms.wearable.*
 
+/**
+ * Cross-device data synchronization client using the Google Play Services Wearable Data Layer API.
+ *
+ * Transmits hydration progress, goals, reminder state, and synchronized alarm timestamps
+ * across connected phones and smartwatches using [PutDataMapRequest] over the path `/water_data`.
+ *
+ * Implements graceful fallback when running in standalone mode (i.e. no peer device paired).
+ *
+ * @param context The application context used to initialize [Wearable.getDataClient].
+ */
 class WearableDataSync(private val context: Context) {
 
     private val dataClient: DataClient? by lazy {

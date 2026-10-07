@@ -12,6 +12,15 @@ import com.example.waterreminder.data.WaterRepository
 import com.example.waterreminder.presentation.MainActivity
 import com.example.waterreminder.receiver.WaterActionReceiver
 
+/**
+ * Helper class for creating, displaying, and managing hydration reminder notifications on Wear OS.
+ *
+ * Configures notification channel, custom water drop icons, high-priority heads-up display,
+ * custom vibrations, and quick action buttons. Sets [NotificationCompat.Builder.setLocalOnly] to true
+ * to prevent duplicate Bluetooth mirroring between watch and phone.
+ *
+ * @param context The application context used to build and post notifications.
+ */
 class NotificationHelper(private val context: Context) {
 
     companion object {

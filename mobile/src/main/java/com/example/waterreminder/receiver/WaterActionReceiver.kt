@@ -9,6 +9,12 @@ import com.example.waterreminder.reminder.NotificationHelper
 import com.example.waterreminder.reminder.ReminderScheduler
 import com.example.waterreminder.sync.WearableDataSync
 
+/**
+ * BroadcastReceiver handling direct one-tap water logging actions from notifications (e.g. "+100 ml") on mobile.
+ *
+ * Updates local [WaterRepository], schedules the next alarm, triggers immediate peer synchronization
+ * via [WearableDataSync], and dismisses the active notification.
+ */
 class WaterActionReceiver : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent?) {
