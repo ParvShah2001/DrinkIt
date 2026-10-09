@@ -3,6 +3,8 @@
 *.aar
 *.ap_
 *.aab
+*.apks
+*.dm
 
 # Release artifacts
 release/
@@ -26,17 +28,28 @@ app/build/
 mobile/build/
 */build/
 
+# Android NDK / C++ build outputs
+.cxx/
+.externalNativeBuild/
+
 # Gradle files and cache
 .gradle/
 buildOutputCleanup/
 
-# Local configuration file (contains local machine SDK paths)
+# Local configuration files (contains local machine SDK paths & secrets)
 local.properties
+secrets.properties
+keystore.properties
+google-services.json
+
+# Signing & Keystores
+*.jks
+*.keystore
 
 # Proguard / R8 foldering
 proguard/
 
-# Log files
+# Log files and compiler caches
 *.log
 .kotlin/
 
@@ -50,6 +63,11 @@ proguard/
 .idea/navEditor.xml
 .idea/assetWizardSettings.xml
 
+# Captures and profiling
+captures/
+.navigation/
+*.hprof
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -59,6 +77,3 @@ proguard/
 ehthumbs.db
 Thumbs.db
 desktop.ini
-
-# Profiling and heap dumps
-*.hprof
