@@ -1,9 +1,0 @@
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
--keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
--keep class androidx.startup.InitializationProvider { <init>(); }
--keep class com.example.waterreminder.presentation.MainActivity { <init>(); }
--keep class com.example.waterreminder.receiver.BootReceiver { <init>(); }
--keep class com.example.waterreminder.receiver.WaterActionReceiver { <init>(); }
--keep class com.example.waterreminder.receiver.WaterReminderReceiver { <init>(); }
--keep class com.example.waterreminder.sync.WearDataListenerService { <init>(); }
--keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }

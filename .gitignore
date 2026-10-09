@@ -1,0 +1,64 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Release artifacts
+release/
+release_bundles/
+app/release/
+mobile/release/
+*/release/
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated and build output files
+bin/
+gen/
+out/
+build/
+app/build/
+mobile/build/
+*/build/
+
+# Gradle files and cache
+.gradle/
+buildOutputCleanup/
+
+# Local configuration file (contains local machine SDK paths)
+local.properties
+
+# Proguard / R8 foldering
+proguard/
+
+# Log files
+*.log
+.kotlin/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Profiling and heap dumps
+*.hprof
